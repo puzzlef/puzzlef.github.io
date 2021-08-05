@@ -18,6 +18,7 @@ A summary of experiments.
 
 ## References (tmp)
 
+- [Weighted Geometric Mean Selected for SPECviewperf® Composite Numbers](https://www.spec.org/gwpg/gpc.static/geometric.html)
 - [CUDA Dynamic Parallelism API and Principles](https://developer.nvidia.com/blog/cuda-dynamic-parallelism-api-principles/)
 - [CUDA Pro Tip: Minimize the Tail Effect](https://developer.nvidia.com/blog/cuda-pro-tip-minimize-the-tail-effect/)
 - [Memory Statistics - Global](https://docs.nvidia.com/gameworks/content/developertools/desktop/analysis/report/cudaexperiments/kernellevel/memorystatisticsglobal.htm)
