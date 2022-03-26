@@ -30,7 +30,7 @@ A summary of experiments. [✒️][writing]
 
 #### Comprehensive viva
 
-- 📓 [Exploring optimizations for dynamic pagerank algorithm based on CUDA](https://gist.github.com/wolfram77/2fb4a81b20bb91644e066a9946706baa)
+- 📓 [Exploring Optimizations for Dynamic Graph Algorithms on the GPU](https://gist.github.com/wolfram77/2fb4a81b20bb91644e066a9946706baa)
 
 
 #### Reports
