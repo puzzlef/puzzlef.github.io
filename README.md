@@ -307,3 +307,10 @@ A summary of experiments. [✒️][writing]
 |  ----  |  ----  |
 | 🧵 [graphs](https://github.com/puzzlef/graphs) | A few sample graphs in Matrix Market (.mtx) format. |
 | 🧵 [gnuplot-scripts](https://github.com/puzzlef/gnuplot-scripts) | I want to keep track of changes to the plot scripts. |
+
+<br>
+<br>
+
+
+[![](https://img.youtube.com/vi/NRnj_lnpORU/maxresdefault.jpg)](https://www.youtube.com/watch?v=NRnj_lnpORU)
+[![ORG](https://img.shields.io/badge/org-wolfram77-green?logo=Org)](https://wolfram77.github.io)
