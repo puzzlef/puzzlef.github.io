@@ -8,6 +8,13 @@ expansion on past work in the field. [(1)]
 <br>
 
 
+## Technical Reports
+
+- 📜 [Understand Problems](https://gist.github.com/wolfram77/be1b0cec6825515057058fe1dde843c9)
+
+<br>
+
+
 #### Handwritten notes
 
 - [List of Research papers: Prof. Kishore Kothapalli, CSTAR, IIIT Hyderabad](https://gist.github.com/wolfram77/847fa70dd2c23a994b196f20e8e96814)
