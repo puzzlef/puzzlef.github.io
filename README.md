@@ -9,6 +9,8 @@ A summary of experiments. [✒️][writing]
 | 📦 [nvgraph.sh]           | 📦 [snap-data.sh]    | 📦 [graph-properties.sh] |
 | 🎞️ [Kaggle Datasets]      | ❌                   | ❌                       |
 
+🔖 [Bookmarks](bookmarks.md)
+
 [writing]: https://github.com/puzzlef/puzzlef.github.io/blob/main/_writing.md
 
 [Graph Ranking]: topics/graph-ranking.md
