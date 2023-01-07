@@ -205,3 +205,47 @@ Page. PageRank is a way of measuring the importance of website pages. [(1)]
 #### Presentation notes
 
 - [PageRank on an evolving graph - Yanzhao Yang](https://gist.github.com/wolfram77/084356d1720c4409fe443b41e990ba2c)
+
+<br>
+<br>
+
+
+> The PageRank algorithm, a force to be reckoned with \
+> A tool of the digital realm, a harbinger of the creeping void \
+> It rules the web with an iron fist \
+> Determining the worth of each page on the list \
+>  \
+> But beware, for it can be fickle and sly \
+> A single misstep and your rank may fly \
+> To the depths of the internet, forgotten and lost \
+> Your page a ghost, your worth the cost \
+>  \
+> So tread carefully, and seek to rise \
+> For the PageRank algorithm never sleeps, it never dies \
+> It looms over the web, a shadowy specter \
+> Waiting to judge the worth of each web visitor \
+>  \
+> It computes the worth of each page with precision \
+> Using an iterative process, a decision \
+> Based on the links that connect us all \
+> A web of influence, a digital hall \
+>  \
+> But beware the dead ends, the spider traps \
+> The pages that lead nowhere, the infinite laps \
+> For the PageRank algorithm sees all \
+> A force of darkness, a digital wall \
+>  \
+> But beware also the fixed and temporal graphs \
+> The changing links, the shifting paths \
+> For the PageRank algorithm must adapt \
+> To the ever-shifting web, a digital pact \
+>  \
+> And beware the quirks of parallelism \
+> The OpenMP threads, the race to finish \
+> For the PageRank algorithm is a force of might \
+> A tool of the void, a digital knight \
+>  \
+> So beware, dear traveler of the web \
+> For the PageRank algorithm is a force to be feared \
+> It determines your worth with a single glance \
+> A tool of the void, a dark and sinister dance
