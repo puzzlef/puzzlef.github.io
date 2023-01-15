@@ -16,6 +16,7 @@ Page. PageRank is a way of measuring the importance of website pages. [(1)]
 
 ## Thesis Materials
 
+- 📓 [Exploring Parallel Optimizations for Dynamic Graph Algorithms](https://gist.github.com/wolfram77/191a04139b47d5a3823d89aa9657b9bc)
 - 📓 [Exploring Optimizations for Dynamic Graph Algorithms on the GPU](https://gist.github.com/wolfram77/2fb4a81b20bb91644e066a9946706baa)
 
 <br>
