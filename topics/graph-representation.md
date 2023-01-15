@@ -16,6 +16,14 @@ associated with each edge. [(1)]
 <br>
 
 
+#### Research notes
+
+- [A Parallel Packed Memory Array to Store Dynamic Graphs](https://gist.github.com/wolfram77/5e2e7349d062b9dfa1bbf0445c7c2e01)
+- [GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing](https://gist.github.com/wolfram77/293b3a661759870482c7ceb21f1cb597)
+
+<br>
+
+
 ## Experiments
 
 ### Graph Data structure
@@ -32,11 +40,3 @@ associated with each edge. [(1)]
 | 🧫 [bitset-sorted-full-vs-partial](https://github.com/puzzlef/bitset-sorted-full-vs-partial) | Performance of fully sorted vs partially sorted BitSet. |
 | 🧫 [bitset-subrange16-adjust-switch-point](https://github.com/puzzlef/bitset-subrange16-adjust-switch-point) | Comparing various switch points for 16-bit subrange based BitSet. |
 | 🧫 [bitset-subrange16-sorted-vs-unsorted](https://github.com/puzzlef/bitset-subrange16-sorted-vs-unsorted) | Comparing sorted vs unsorted for 16-bit subrange based BitSet. |
-
-<br>
-
-
-#### Research notes
-
-- [A Parallel Packed Memory Array to Store Dynamic Graphs](https://gist.github.com/wolfram77/5e2e7349d062b9dfa1bbf0445c7c2e01)
-- [GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing](https://gist.github.com/wolfram77/293b3a661759870482c7ceb21f1cb597)

@@ -16,6 +16,20 @@ clusters. [(1)]
 <br>
 
 
+#### Handwritten notes
+
+- [Delta modularity derivation (Louvain algorithm)](https://gist.github.com/wolfram77/a3c95cd94a38a100f9b075594a823928)
+
+<br>
+
+
+#### Research notes
+
+- [Delta-Screening: A Fast and Efficient Technique to Update Communities in Dynamic Graphs](https://gist.github.com/wolfram77/c51f3580d7a76fa5c0a78491569df5ce)
+
+<br>
+
+
 ## Experiments
 
 ### Community detection using Louvain
@@ -49,15 +63,3 @@ clusters. [(1)]
 | 🧫 [labelrank-per-iteration-modularity](https://github.com/puzzlef/labelrank-per-iteration-modularity) | Variation of modularity with progression of iterations of the LabelRank algorithm for community detection. |
 |  |  |
 | 🧫 [labelrank-openmp-adjust-schedule](https://github.com/puzzlef/labelrank-openmp-adjust-schedule) | Effect of adjusting schedule in OpenMP-based LabelRank algorithm for community detection. |
-
-<br>
-
-
-#### Handwritten notes
-
-- [Delta modularity derivation (Louvain algorithm)](https://gist.github.com/wolfram77/a3c95cd94a38a100f9b075594a823928)
-
-
-#### Research notes
-
-- [Delta-Screening: A Fast and Efficient Technique to Update Communities in Dynamic Graphs](https://gist.github.com/wolfram77/c51f3580d7a76fa5c0a78491569df5ce)
