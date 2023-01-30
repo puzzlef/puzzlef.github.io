@@ -54,3 +54,11 @@ Check out these interesting topics (*bookmarks*).
 [T-Computer Networks]: https://pinboard.opera.com/view/82f010aa-c8db-42ea-b823-a00f51892af0
 [T-Computer Security]: https://pinboard.opera.com/view/4ec01886-a834-49f3-9328-b0e1b2bc73df
 [T-Open Hardware]: https://pinboard.opera.com/view/b393896a-9cf3-4518-b9d2-f460c9529ebd
+
+<br>
+
+
+## Publishing
+
+- [List of Conferences in Theoretical Computer Science: Miki Hermann](http://www.lix.polytechnique.fr/~hermann/conf.php)
+- [Systems Conferences by Ranking: CORE](http://portal.core.edu.au/conf-ranks/)
