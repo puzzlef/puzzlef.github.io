@@ -9,6 +9,8 @@ connect any two nodes in the graph. [(1)]
 
 #### Research notes
 
+- [Parallel algorithms for multi-source graph traversal and its applications](https://gist.github.com/wolfram77/eb308c44ee36c9413a2bfa8f58e2378a)
+- [A Parallel Algorithm Template for Updating Single-Source Shortest Paths in Large-Scale Dynamic Networks](https://gist.github.com/wolfram77/dc6c7bf55a2de50098b5fdc03be0d759)
 - [Practical Parallel Hypergraph Algorithms](https://gist.github.com/wolfram77/27c2527fff632f77a02b0bf921218807)
 - [Practice of Streaming Processing of Dynamic Graphs: Concepts, Models, and Systems](https://gist.github.com/wolfram77/7e2a17af8ec541ddcaf3344ec9b90edf)
 - [Parallel Batch-Dynamic Graphs: Algorithms and Lower Bounds](https://gist.github.com/wolfram77/f7e949d6576c47c7cb0af28c9fa88d3d)

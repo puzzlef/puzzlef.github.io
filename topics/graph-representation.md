@@ -30,13 +30,5 @@ associated with each edge. [(1)]
 
 | Repository | Description |
 |  ----  |  ----  |
-| 🧫 [graph-edges-vector-vs-unordered_map](https://github.com/puzzlef/graph-edges-vector-vs-unordered_map) | Performance of using vector vs unordered_map for storing edges of each vertex in a graph. |
-|  |  |
-| 🧫 [csr-regular-vs-hybrid](https://github.com/puzzlef/csr-regular-vs-hybrid) | Comparing space usage of regular vs hybrid CSR. |
-|  |  |
-| 🧫 [bitset-sorted-vs-unsorted](https://github.com/puzzlef/bitset-sorted-vs-unsorted) | Testing the effectiveness of sorted vs unsorted list of integers for BitSet. |
-| 🧫 [bitset-small-vector-adjust-buffer](https://github.com/puzzlef/bitset-small-vector-adjust-buffer) | Comparing various buffer sizes for BitSet with small vector optimization. |
-| 🧫 [bitset-partially-sorted-adjust-unsorted](https://github.com/puzzlef/bitset-partially-sorted-adjust-unsorted) | Comparing various unsorted sizes for partially sorted BitSet. |
-| 🧫 [bitset-sorted-full-vs-partial](https://github.com/puzzlef/bitset-sorted-full-vs-partial) | Performance of fully sorted vs partially sorted BitSet. |
-| 🧫 [bitset-subrange16-adjust-switch-point](https://github.com/puzzlef/bitset-subrange16-adjust-switch-point) | Comparing various switch points for 16-bit subrange based BitSet. |
-| 🧫 [bitset-subrange16-sorted-vs-unsorted](https://github.com/puzzlef/bitset-subrange16-sorted-vs-unsorted) | Comparing sorted vs unsorted for 16-bit subrange based BitSet. |
+| 🧫 [pair-bitset](https://github.com/puzzlef/pair-bitset) | Design of bitset for storing key-value pairs. |
+| 🧫 [hybrid-csr](https://github.com/puzzlef/hybrid-csr) | Comparing space usage of regular vs hybrid CSR. |

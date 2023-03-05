@@ -5,7 +5,7 @@ A summary of experiments. [✒️][writing]
 | 📖 Topics                 | 📦 Packages          | 🎞️ Datasets              |
 | ------------------------ | ------------------- | ----------------------- |
 | 📖 [Research]             | 📖 [Graph Ranking]   | 📖 [Graph Clustering]    |
-| 📖 [Graph Representation] | 📖 [Graph Algorithm] | 📖 [Graph Traversal]     |
+| 📖 [Graph Representation] | 📖 [Graph Algorithm] | 📖 [Parallel Algorithm]  |
 | 📦 [nvgraph.sh]           | 📦 [snap-data.sh]    | 📦 [graph-properties.sh] |
 | 🎞️ [Kaggle Datasets]      | ❌                   | ❌                       |
 
@@ -15,7 +15,6 @@ A summary of experiments. [✒️][writing]
 
 [Graph Ranking]: topics/graph-ranking.md
 [Graph Clustering]: topics/graph-clustering.md
-[Graph Traversal]: topics/graph-traversal.md
 [Graph Algorithm]: topics/graph-algorithm.md
 [Graph Representation]: topics/graph-representation.md
 [Parallel Algorithm]: topics/parallel-algorithm.md
@@ -36,16 +35,7 @@ A summary of experiments. [✒️][writing]
 |  ----  |  ----  |
 | ⛏️ [graph-properties](https://github.com/ionicf/graph-properties) | List a few graph properties. |
 | ⛏️ [graph-generate](https://github.com/ionicf/graph-generate) | Perform certain operations upon a fixed graph. |
-
-<br>
-
-
-## Additional materials
-
-| Repository | Description |
-|  ----  |  ----  |
 | 🧵 [graphs](https://github.com/puzzlef/graphs) | A few sample graphs in Matrix Market (.mtx) format. |
-| 🧵 [gnuplot-scripts](https://github.com/puzzlef/gnuplot-scripts) | I want to keep track of changes to the plot scripts. |
 
 <br>
 <br>

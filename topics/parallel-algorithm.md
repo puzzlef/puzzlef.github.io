@@ -43,20 +43,10 @@ abstract machine models, often the one known as random-access machine. [(1)]
 |  ----  |  ----  |
 | 🧫 [vector-atomic-access](https://github.com/puzzlef/vector-atomic-access) | Compare ways to access elements of a vector atomically. |
 |  |  |
-| 🧫 [search-linear-vs-binary](https://github.com/puzzlef/search-linear-vs-binary) | Comparing when is linear search faster than binary search. |
-|  |  |
-| 🧫 [sum-float-vs-bfloat16](https://github.com/puzzlef/sum-float-vs-bfloat16) | Performance of vector element sum using float vs bfloat16 as the storage type. |
-|  |  |
-| 🧫 [sum-openmp-adjust-schedule](https://github.com/puzzlef/sum-openmp-adjust-schedule) | Comparing various schedules for OpenMP-based vector element sum. |
-| 🧫 [sum-sequential-vs-openmp](https://github.com/puzzlef/sum-sequential-vs-openmp) | Performance of sequential vs OpenMP-based vector element sum. |
-|  |  |
-| 🧫 [sum-cuda-memcpy-adjust-launch](https://github.com/puzzlef/sum-cuda-memcpy-adjust-launch) | Comparing various launch configs for CUDA based vector element sum (memcpy). |
-| 🧫 [sum-cuda-memcpy-adjust-duty](https://github.com/puzzlef/sum-cuda-memcpy-adjust-duty) | Comparing various per-thread duty numbers for CUDA based vector element sum (memcpy). |
-| 🧫 [sum-cuda-inplace-adjust-launch](https://github.com/puzzlef/sum-cuda-inplace-adjust-launch) | Comparing various launch configs for CUDA based vector element sum (in-place). |
-| 🧫 [sum-cuda-memcpy-vs-inplace](https://github.com/puzzlef/sum-cuda-memcpy-vs-inplace) | Performance of memcpy vs in-place based CUDA based vector element sum. |
-|  |  |
-| 🧫 [multiply-openmp-adjust-schedule](https://github.com/puzzlef/multiply-openmp-adjust-schedule) | Comparing various schedules for OpenMP-based element-by-element vector multiplication. |
-| 🧫 [multiply-sequential-vs-openmp](https://github.com/puzzlef/multiply-sequential-vs-openmp) | Performance of sequential vs OpenMP-based element-by-element vector multiplication. |
-|  |  |
-| 🧫 [multiply-cuda-adjust-launch](https://github.com/puzzlef/multiply-cuda-adjust-launch) | Comparing various launch configs for CUDA based vector multiply. |
-| 🧫 [multiply-cuda-adjust-duty](https://github.com/puzzlef/multiply-cuda-adjust-duty) | Comparing various per-thread duty numbers for CUDA based vector multiply. |
+| 🧫 [vector-search](https://github.com/puzzlef/vector-search) | Comparing approaches for searching an element in a vector. |
+| 🧫 [vector-sum](https://github.com/puzzlef/vector-sum) | Comparison of vector element sum using various data types. |
+| 🧫 [vector-sum-openmp](https://github.com/puzzlef/vector-sum-openmp) | Comparing performance of sequential vs OpenMP-based vector element sum. |
+| 🧫 [vector-sum-cuda](https://github.com/puzzlef/vector-sum-cuda) | Comparing performance of sequential vs CUDA-based vector element sum. |
+| 🧫 [vector-max-cuda](https://github.com/puzzlef/vector-max-cuda) | Performance of sequential vs CUDA-based vector element max. |
+| 🧫 [vector-multiplication-openmp](https://github.com/puzzlef/vector-multiplication-openmp) | Comparing performance of sequential vs OpenMP-based element-by-element vector multiplication. |
+| 🧫 [vector-multiplication-cuda](https://github.com/puzzlef/vector-multiplication-cuda) | Comparing approaches for CUDA-based vector multiplication. |
