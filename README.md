@@ -1,7 +1,5 @@
 <!-- | 🧪 [XXX](https://github.com/puzzlef/XXX) | DDD | -->
 
-A summary of experiments.
-
 
 ### Publications
 
