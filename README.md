@@ -4,16 +4,17 @@
 ### Publications
 
 - 📰 [Dynamic Batch Parallel Algorithms for Updating PageRank](https://ieeexplore.ieee.org/abstract/document/9835216/) (2022)
-- 📰 Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs (accepted)
-- 📰 Lock-free Computation of PageRank in Dynamic Graphs (accepted)
+- 📰 Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs
+- 📰 Lock-free Computation of PageRank in Dynamic Graphs
+- 📰 [DF* PageRank: ... Incrementally Expanding Approaches for Updating PageRank on ...](https://arxiv.org/abs/2401.15870)
 
 <br>
 
 
 ### Technical Reports
 
+- 📰 [DF Louvain: Fast Incrementally Expanding Approach for ... on Dynamic Graphs](http://arxiv.org/abs/2404.19634)
 - 📰 [A Fast Parallel ... Neighborhood-based Link Prediction by Disregarding Large Hubs](https://arxiv.org/abs/2401.11415)
-- 📰 [DF* PageRank: ... Incrementally Expanding Approaches for Updating PageRank on ...](https://arxiv.org/abs/2401.15870)
 - 📰 [An Incrementally Expanding Approach for Updating PageRank on Dynamic Graphs](https://arxiv.org/abs/2401.03256)
 - 📰 [GSL-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection with no ...](https://arxiv.org/abs/2403.01261)
 - 📰 [An Approach for Addressing Internally-Disconnected Communities in Louvain Algorithm](https://arxiv.org/abs/2402.11454)
