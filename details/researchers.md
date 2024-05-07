@@ -35,7 +35,7 @@
 ```latex
 \author{Kishore Kothapalli}
 \email{kkishore@iiit.ac.in}
-\affiliation{%
+\affiliation{
   \institution{IIIT Hyderabad}
   \streetaddress{Professor CR Rao Rd, Gachibowli}
   \city{Hyderabad}
@@ -48,7 +48,7 @@
 ```latex
 \author{Dip Sankar Banerjee}
 \email{dipsankarb@iitj.ac.in}
-\affiliation{%
+\affiliation{
   \institution{IIT Jodhpur}
   \streetaddress{NH 62, Surpura Bypass Rd}
   \city{Karwar}
@@ -61,7 +61,7 @@
 ```latex
 \author{Hemalatha Eedi}
 \email{hemamorarjee@jntuh.ac.in}
-\affiliation{%
+\affiliation{
   \institution{JNTU Hyderabad}
   \streetaddress{Ashok Nagar, Kukatpally}
   \city{Hyderabad}
@@ -74,7 +74,7 @@
 ```latex
 \author{Sathya Peri}
 \email{sathya\_p@cse.iith.ac.in}
-\affiliation{%
+\affiliation{
   \institution{IIT Hyderabad}
   \streetaddress{Near NH-65, Sangareddy}
   \city{Kandi}

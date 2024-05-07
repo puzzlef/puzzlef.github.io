@@ -77,7 +77,8 @@
 
 - 🧵 [Kaggle Datasets](https://www.kaggle.com/wolfram77/datasets)
 - 👨‍🏫 [Top Researchers in High Performance Computing](details/researchers.md)
-- 📰 [Top Research Papers in High Performance Computing](details/researchers.md)
+- 📰 [Top Research Papers in High Performance Computing](details/papers.md)
+- 🎃 [Top Conferences in High Performance Computing](details/conferences.md)
 
 <br>
 
