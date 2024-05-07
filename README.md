@@ -76,7 +76,8 @@
 ### Others
 
 - 🧵 [Kaggle Datasets](https://www.kaggle.com/wolfram77/datasets)
-- 👨‍🏫 [Top Researchers in High Performance Computing](researchers.md)
+- 👨‍🏫 [Top Researchers in High Performance Computing](details/researchers.md)
+- 📰 [Top Research Papers in High Performance Computing](details/researchers.md)
 
 <br>
 
