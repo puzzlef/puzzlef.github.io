@@ -45,6 +45,7 @@
 
 ### Thesis Materials
 
+- 📓 [Parallel Dynamic Graph Algorithms for Social Networks (Thesis Proposal Slides)](https://1drv.ms/b/s!ArJVU1dIBRJPuy4CtDRcNERiz0jh?e=OYK07W)
 - 📓 [Exploring Parallel Optimizations for Dynamic Graph Algorithms](https://gist.github.com/wolfram77/191a04139b47d5a3823d89aa9657b9bc)
 - 📓 [Exploring Optimizations for Dynamic Graph Algorithms on the GPU](https://gist.github.com/wolfram77/2fb4a81b20bb91644e066a9946706baa)
 - 📓 [Design ... of a heterogeneous sensor-based embedded system for flood management]() (2014)
