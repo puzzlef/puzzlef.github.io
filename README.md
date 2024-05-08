@@ -79,6 +79,7 @@
 - 👨‍🏫 [Top Researchers in High Performance Computing](details/researchers.md)
 - 📰 [Top Research Papers in High Performance Computing](details/papers.md)
 - 🎃 [Top Conferences in High Performance Computing](details/conferences.md)
+- 💵 [Travel Grant for Conferences: Mayank Tripathi](https://github.com/mayank408/Travel-Grants)
 
 <br>
 
