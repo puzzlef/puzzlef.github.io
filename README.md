@@ -76,11 +76,12 @@
 
 ### Others
 
-- 🧵 [Kaggle Datasets](https://www.kaggle.com/wolfram77/datasets)
 - 👨‍🏫 [Top Researchers in High Performance Computing](details/researchers.md)
 - 📰 [Top Research Papers in High Performance Computing](details/papers.md)
 - 🎃 [Top Conferences in High Performance Computing](details/conferences.md)
+- 📚 [Top Journals in High Performance Computing](details/journals.md)
 - 💵 [Travel Grant for Conferences: Mayank Tripathi](https://github.com/mayank408/Travel-Grants)
+- 🧵 [Kaggle Datasets](https://www.kaggle.com/wolfram77/datasets)
 
 <br>
 
