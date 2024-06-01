@@ -13,6 +13,7 @@
 
 ### Technical Reports
 
+- 📰 [A Starting Point for Dynamic Community Detection with Leiden Algorithm](https://arxiv.org/abs/2405.11658)
 - 📰 [DF Louvain: Fast Incrementally Expanding Approach for ... on Dynamic Graphs](http://arxiv.org/abs/2404.19634)
 - 📰 [A Fast Parallel ... Neighborhood-based Link Prediction by Disregarding Large Hubs](https://arxiv.org/abs/2401.11415)
 - 📰 [An Incrementally Expanding Approach for Updating PageRank on Dynamic Graphs](https://arxiv.org/abs/2401.03256)
@@ -48,7 +49,7 @@
 - 📓 [Parallel Dynamic Graph Algorithms for Social Networks (Thesis Proposal Slides)](https://1drv.ms/b/s!ArJVU1dIBRJPuy4CtDRcNERiz0jh?e=OYK07W)
 - 📓 [Exploring Parallel Optimizations for Dynamic Graph Algorithms](https://gist.github.com/wolfram77/191a04139b47d5a3823d89aa9657b9bc)
 - 📓 [Exploring Optimizations for Dynamic Graph Algorithms on the GPU](https://gist.github.com/wolfram77/2fb4a81b20bb91644e066a9946706baa)
-- 📓 [Design ... of a heterogeneous sensor-based embedded system for flood management]() (2014)
+- 📓 [Design ... of a heterogeneous sensor-based embedded system for flood management](http://ethesis.nitrkl.ac.in/5910/1/110EC0181-8.pdf) (2014)
 - 📝 [List of Research papers: Prof. Kishore Kothapalli, CSTAR, IIIT Hyderabad](https://gist.github.com/wolfram77/847fa70dd2c23a994b196f20e8e96814)
 - 📜 [Submitting the Thesis Evaluation Request by MS/PhD Students (IIIT Hyderabad)](https://gist.github.com/wolfram77/28b1a9251c7e4ac36c233a6739c4c164)
 - 📜 [The Purpose and Process of PhD Comprehensive VIVA Examination (IIIT Hyderabad)](https://gist.github.com/wolfram77/a7eb570fab6c166ae2f8bc6fb999d253)
