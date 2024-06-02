@@ -1,12 +1,20 @@
 <!-- | 🧪 [XXX](https://github.com/puzzlef/XXX) | DDD | -->
 
+The world is in the midst of an **unprecedented growth of interconnected data**, and *graph processing systems* are expected to play a vital role. *Conventional graph algorithms* designed for static graphs **struggle** to efficiently handle the continuous changes and updates that occur within these networks. As these networks grow in complexity, the need for algorithms capable of *efficiently analyzing dynamic graph data* is increasingly crucial. Our research aims to address the computational challenges posed by the need for real-time insights and scalable processing in dynamic and complex networks.
+
+However, many *dynamic algorithms* are **sequential**, tailored towards web graphs, do not utilize *reducibility*, locality benefits of SCCs, overestimate affected vertices, and have *high overhead*, implementations are *not well optimized*, do not take advantage of *auxiliary information*, and do not gracefully tolerate *soft-faults* which modern architectures introduce. Our dynamic approaches for PageRank and community detection address these issues. Our work has been accepted by *IPDPS workshops* (3), and the *Euro-Par conference* (1). Key outputs from our work include the design of a **common framework for dynamic graph algorithms**, and **techniques to address soft faults in dynamic algorithms**.
+
+<!-- We are currently working on algorithms for link prediction, node similarity, fast loading of dynamic graphs, and generation of large realistic/constrained dynamic graph datasets. The development of dynamic algorithms for large-scale graph processing resonates with Microsoft's mission to empower individuals and organizations through innovative technology solutions. By collaborating with Microsoft Research India, we aim to further accelerate the adoption of our optimized algorithms and contribute to the advancement of graph analytics in real-world applications. -->
+
+<br>
+
 
 ### Publications
 
-- 📰 [Dynamic Batch Parallel Algorithms for Updating PageRank](https://ieeexplore.ieee.org/abstract/document/9835216/) (2022)
-- 📰 Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs
-- 📰 Lock-free Computation of PageRank in Dynamic Graphs
-- 📰 [DF* PageRank: ... Incrementally Expanding Approaches for Updating PageRank on ...](https://arxiv.org/abs/2401.15870)
+- 📰 [Dynamic Batch Parallel Algorithms for Updating PageRank](https://ieeexplore.ieee.org/abstract/document/9835216/) (IPDPSW ParSocial 2022)
+- 📰 Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs (Outstanding paper awarded, IPDPSW ADPCM 2024)
+- 📰 Lock-free Computation of PageRank in Dynamic Graphs (IPDPSW ParSocial 2024)
+- 📰 [DF* PageRank: Improved Incrementally Expanding Approaches for Updating PageRank on Dynamic Graphs](https://arxiv.org/abs/2401.15870) (Accepted at Euro-Par 2024)
 
 <br>
 
