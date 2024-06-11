@@ -18,6 +18,10 @@
 
 ### Top Conferences in High Performance Computing
 
+- [Euro-Par 2024](https://2024.euro-par.org)
+- [ACM International Conference on Parallel Processing (ICPP 2024)](https://icpp2024.org)
+- [IEEE International Parallel and Distributed Processing Symposium (IPDPS 2024)](https://www.ipdps.org)
+
 - [Supercomputing (SC 24)](https://sc24.supercomputing.org)
 - [SupercomputingAsia (SCA 2024)](https://sca24.sc-asia.org)
 - [International Conference on Supercomputing (ICS 2024)](https://ics2024.github.io)
