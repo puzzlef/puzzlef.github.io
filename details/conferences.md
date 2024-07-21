@@ -31,3 +31,4 @@
 - [HPC Symposium 2024](https://www.iitk.ac.in/cce/events/24-25/hpc-symposium/)
 - [HPC Asia 2024](https://sighpc.ipsj.or.jp/HPCAsia2024/)
 - [NVIDIA GTC HPC Conference Sessions](https://www.nvidia.com/gtc/sessions/hpc/)
+- [International Conference on Contemporary Computing (IC3)](https://www.ic3conf.net)
