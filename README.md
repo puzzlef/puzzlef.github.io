@@ -90,6 +90,6 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 🎃 [Top Conferences in High Performance Computing](details/conferences.md)
 - 📚 [Top Journals in High Performance Computing](details/journals.md)
 - 💵 [Travel Grant for Conferences: Mayank Tripathi](https://github.com/mayank408/Travel-Grants)
+- 🧵 [List of Available Datasets](details/datasets.md)
 - 🧪 [List of Experiments](details/experiments.md)
 - 📰 [Research Notes](details/notes.md)
-- 🧵 [Kaggle Datasets](https://www.kaggle.com/wolfram77/datasets)
