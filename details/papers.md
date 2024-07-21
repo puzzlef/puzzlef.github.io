@@ -79,3 +79,46 @@
 - Polylogarithmic-time deterministic network decomposition and distributed derandomization (STOC 2020)
 - Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models (CIKM 2020)
 - Investigating the performance of exploratory graph analysis and traditional techniques to identify the number of latent factors: A simulation and tutorial (Psychol. Methods 2020)
+
+<br>
+
+
+### Research Areas in Parallel Algorithms
+
+- Scalability
+- Load Balancing
+- Parallel Data Structures
+- Parallel Programming Models
+- Communication Efficiency
+- Fault Tolerance
+- Hybrid and Heterogeneous Computing
+- Big Data and Distributed Computing
+- Quantum Parallelism
+- Energy-Efficient Parallelism
+- Bio-inspired and Nature-inspired Parallel Algorithms
+
+<br>
+
+
+### Examples of Parallel Algorithms
+
+- Parallel Sorting Algorithms
+- Parallel Graph Algorithms
+- Parallel Numerical Algorithms
+- Parallel Search Algorithms
+- Parallel Machine Learning
+- Parallel Computational Geometry
+- Parallel Monte Carlo Methods
+
+<br>
+
+
+### Bio-inspired and Nature-inspired Parallel Algorithms
+
+- Genetic Algorithms (GAs)
+- Ant Colony Optimization (ACO)
+- Particle Swarm Optimization (PSO)
+- Artificial Immune Systems (AIS)
+- Neural Networks and Swarm Intelligence
+- Cellular Automata
+- Biomimetic Robotics
