@@ -19,3 +19,8 @@
 - 📚 [Elsevier Journal of Computational Science (JOCSCI)](https://www.journals.elsevier.com/journal-of-computational-science)
 - 📚 [Elsevier Journal of Parallel and Distributed Computing (JPDC)](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing)
 - 📚 [ACM Transactions on Parallel Computing (TOPC)](https://dl.acm.org/journal/topc)
+- 📚 [ACM Transactions on Knowledge Discovery from Data (TKDD)](https://dl.acm.org/journal/tkdd)
+- 📚 [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td)
+- 📚 [Sage International Journal of High Performance Computing Applications (HPCA)](https://journals.sagepub.com/home/hpc)
+- 📚 [Springer International Journal of Parallel Programming (IJPP)](https://link.springer.com/journal/10766)
+- 📚 [Journal of Open Source Software (JOSS)](https://joss.theoj.org)
