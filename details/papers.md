@@ -83,6 +83,21 @@
 <br>
 
 
+### Other Interesting Papers
+
+- De novo short read assembly of the human genome
+- APPM: Adaptive Parallel Processing Mechanism for Service Function Chains
+- Parallel Rendering with K-Way Replication
+- GPS: A Graph Processing System
+- A Comparison of List Schedules for Parallel Processing Systems
+- A Genetic Algorithm for Shortest Path Routing Problem and the Sizing of Populations
+- GRECS: Graph Encryption for Approximate Shortest Distance Queries
+- Dynamic critical-path scheduling: an effective technique for allocating task graphs to multiprocessors
+- GPU Accelerated Range Trees with Applications
+
+<br>
+
+
 ### Research Areas in Parallel Algorithms
 
 - Scalability
@@ -93,6 +108,8 @@
 - Fault Tolerance
 - Hybrid and Heterogeneous Computing
 - Big Data and Distributed Computing
+- Distributed Hash Tables
+- De Bruijn Graphs
 - Quantum Parallelism
 - Energy-Efficient Parallelism
 - Bio-inspired and Nature-inspired Parallel Algorithms
