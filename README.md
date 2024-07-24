@@ -11,26 +11,26 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### Publications
 
-- 📰 [Dynamic Batch Parallel Algorithms for Updating PageRank](https://ieeexplore.ieee.org/abstract/document/9835216/) (IPDPSW ParSocial 2022)
-- 📰 Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs (Outstanding paper awarded, IPDPSW ADPCM 2024)
-- 📰 Lock-free Computation of PageRank in Dynamic Graphs (IPDPSW ParSocial 2024)
-- 📰 [DF* PageRank: Improved Incrementally Expanding Approaches for Updating PageRank on Dynamic Graphs](https://arxiv.org/abs/2401.15870) (Accepted at Euro-Par 2024)
-- 📰 [Fast Leiden Algorithm for Community Detection in Shared Memory Setting](https://arxiv.org/abs/2312.13936) (Accepted at ICPP 2024)
+- 📰 [Dynamic Batch Parallel Algorithms for Updating PageRank](https://ieeexplore.ieee.org/abstract/document/9835216/) (IPDPSW ParSocial 2022, IEEE)
+- 📰 [Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596428/) (Outstanding paper, IPDPSW ADPCM 2024, IEEE)
+- 📰 [Lock-free Computation of PageRank in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596502/) (IPDPSW ParSocial 2024, IEEE)
+- 📰 [Fast Leiden Algorithm for Community Detection in Shared Memory Setting](https://dl.acm.org/doi/abs/10.1145/3673038.3673146) (ICPP 2024, ACM)
+- 📰 [DF* PageRank: Incrementally Expanding Approaches for Updating PageRank on Dynamic Graphs](https://link.springer.com/chapter/10.1007/978-3-031-69583-4_22) (Euro-Par 2024, Springer LNCS)
+- 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://arxiv.org/abs/2401.11415) (Euro-Par 2024 PhD Symposium, Springer LNCS)
+- 📰 [GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats](https://arxiv.org/abs/2311.14650) (Euro-Par AMTE 2024, Springer LNCS)
+- 📰 [GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in Shared Memory Setting](https://arxiv.org/abs/2312.08140) (Euro-Par HiPES 2024, Springer LNCS)
+- 📰 [A Starting Point for Dynamic Community Detection with Leiden Algorithm](https://arxiv.org/abs/2405.11658) (Accepted at ICPP SANDY 2024)
 
 <br>
 
 
 ### Technical Reports
 
-- 📰 [A Starting Point for Dynamic Community Detection with Leiden Algorithm](https://arxiv.org/abs/2405.11658)
 - 📰 [DF Louvain: Fast Incrementally Expanding Approach for ... on Dynamic Graphs](http://arxiv.org/abs/2404.19634)
-- 📰 [A Fast Parallel ... Neighborhood-based Link Prediction by Disregarding Large Hubs](https://arxiv.org/abs/2401.11415)
 - 📰 [An Incrementally Expanding Approach for Updating PageRank on Dynamic Graphs](https://arxiv.org/abs/2401.03256)
 - 📰 [GSL-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection with no ...](https://arxiv.org/abs/2403.01261)
 - 📰 [An Approach for Addressing Internally-Disconnected Communities in Louvain Algorithm](https://arxiv.org/abs/2402.11454)
-- 📰 [GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in Shared ...](https://arxiv.org/abs/2312.08140)
 - 📰 [GVE-Louvain: Fast Louvain Algorithm for Community Detection in Shared Memory Setting](https://arxiv.org/abs/2312.04876)
-- 📰 [GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats](https://arxiv.org/abs/2311.14650)
 - 📰 [Heuristics for Inequality minimization in PageRank values](https://arxiv.org/abs/2310.18537)
 - 📰 [Enhancing Efficiency in Parallel Louvain Algorithm for Community Detection](https://arxiv.org/abs/2301.12390)
 - 📰 [Effect of stepwise adjustment of Damping factor upon PageRank](https://arxiv.org/abs/2108.04150)
