@@ -20,6 +20,8 @@
 - 👨‍🏫 [Sarabjeet Singh](https://scholar.google.com/citations?hl=en&user=j5ZZhycAAAAJ)
 - 👨‍🏫 [Manish Gupta](https://scholar.google.com/citations?hl=en&user=fHISoWoAAAAJ)
 
+- 👨‍🏫 [Kamesh Madduri](https://madduri.org/)
+
 - 👨‍🏫 [Prof. Kishore Kothapalli](https://faculty.iiit.ac.in/~kkishore/)
 - 👨‍🏫 [Prof. Dip Sankar Banerjee](https://sites.google.com/site/dipsankarban/)
 - 👩‍🏫 [Prof. Hemalatha Eedi](https://jntuhceh.ac.in/faculty_details/5/dept/369)
