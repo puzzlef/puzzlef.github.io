@@ -2,7 +2,7 @@
 
 The world is in the midst of an **unprecedented growth of interconnected data**, and *graph processing systems* are expected to play a vital role. *Conventional graph algorithms* designed for static graphs **struggle** to efficiently handle the continuous changes and updates that occur within these networks. As these networks grow in complexity, the need for algorithms capable of *efficiently analyzing dynamic graph data* is increasingly crucial. Our research aims to address the computational challenges posed by the need for real-time insights and scalable processing in dynamic and complex networks.
 
-However, many *dynamic algorithms* are **sequential**, tailored towards web graphs, do not utilize *reducibility*, locality benefits of SCCs, overestimate affected vertices, and have *high overhead*, implementations are *not well optimized*, do not take advantage of *auxiliary information*, and do not gracefully tolerate *soft-faults* which modern architectures introduce. Our dynamic approaches for PageRank and community detection address these issues. Our work has been accepted by *IPDPS workshops* (3), the *Euro-Par conference* (1), and the *ICPP conference* (1). Key outputs from our work include the design of a **common framework for dynamic graph algorithms**, and **techniques to address soft faults in dynamic algorithms**.
+However, many *dynamic algorithms* are **sequential**, tailored towards web graphs, do not utilize *reducibility*, locality benefits of SCCs, overestimate affected vertices, and have *high overhead*, implementations are *not well optimized*, do not take advantage of *auxiliary information*, and do not gracefully tolerate *soft-faults* which modern architectures introduce. Our dynamic approaches for PageRank and community detection address these issues. Our work has been accepted by *IPDPS workshops* (3), the *Euro-Par conference* (1), the *ICPP conference* (1), and the *Complex Networks conference* (1). Key outputs from our work include the design of a **common framework for dynamic graph algorithms**, and **techniques to address soft faults in dynamic algorithms**.
 
 <!-- We are currently working on algorithms for link prediction, node similarity, fast loading of dynamic graphs, and generation of large realistic/constrained dynamic graph datasets. The development of dynamic algorithms for large-scale graph processing resonates with Microsoft's mission to empower individuals and organizations through innovative technology solutions. By collaborating with Microsoft Research India, we aim to further accelerate the adoption of our optimized algorithms and contribute to the advancement of graph analytics in real-world applications. -->
 
@@ -19,18 +19,20 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://arxiv.org/abs/2401.11415) (Euro-Par 2024 PhD Symposium, Springer LNCS)
 - 📰 [GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats](https://arxiv.org/abs/2311.14650) (Euro-Par AMTE 2024, Springer LNCS)
 - 📰 [GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in Shared Memory Setting](https://arxiv.org/abs/2312.08140) (Euro-Par HiPES 2024, Springer LNCS)
-- 📰 [A Starting Point for Dynamic Community Detection with Leiden Algorithm](https://arxiv.org/abs/2405.11658) (Accepted at ICPP SANDY 2024)
+- 📰 [High-Performance Implementation of Louvain Algorithm with Representational Optimizations](https://arxiv.org/abs/2312.04876) (Accepted at Complex Networks 2024, Springer SCI)
 
 <br>
 
 
 ### Technical Reports
 
+- 📰 [Heuristic-based Dynamic Leiden ... Efficient Tracking of Communities on Evolving Graphs](https://arxiv.org/abs/2410.15451)
+- 📰 [A Starting Point for Dynamic Community Detection with Leiden Algorithm](https://arxiv.org/abs/2405.11658)
 - 📰 [DF Louvain: Fast Incrementally Expanding Approach for ... on Dynamic Graphs](http://arxiv.org/abs/2404.19634)
 - 📰 [An Incrementally Expanding Approach for Updating PageRank on Dynamic Graphs](https://arxiv.org/abs/2401.03256)
 - 📰 [GSL-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection with no ...](https://arxiv.org/abs/2403.01261)
 - 📰 [An Approach for Addressing Internally-Disconnected Communities in Louvain Algorithm](https://arxiv.org/abs/2402.11454)
-- 📰 [GVE-Louvain: Fast Louvain Algorithm for Community Detection in Shared Memory Setting](https://arxiv.org/abs/2312.04876)
+- 📰 [GVE-Louvain: Fast Louvain Algorithm for Community Detection in Shared Memory Setting]()
 - 📰 [Heuristics for Inequality minimization in PageRank values](https://arxiv.org/abs/2310.18537)
 - 📰 [Enhancing Efficiency in Parallel Louvain Algorithm for Community Detection](https://arxiv.org/abs/2301.12390)
 - 📰 [Effect of stepwise adjustment of Damping factor upon PageRank](https://arxiv.org/abs/2108.04150)
