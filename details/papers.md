@@ -85,57 +85,51 @@
 
 ### Other Interesting Papers
 
-- De novo short read assembly of the human genome
-- APPM: Adaptive Parallel Processing Mechanism for Service Function Chains
 - Parallel Rendering with K-Way Replication
-- GPS: A Graph Processing System
-- A Comparison of List Schedules for Parallel Processing Systems
-- A Genetic Algorithm for Shortest Path Routing Problem and the Sizing of Populations
-- GRECS: Graph Encryption for Approximate Shortest Distance Queries
-- Dynamic critical-path scheduling: an effective technique for allocating task graphs to multiprocessors
 - GPU Accelerated Range Trees with Applications
+- GPS: A Graph Processing System
+- GRECS: Graph Encryption for Approximate Shortest Distance Queries
+- A Genetic Algorithm for Shortest Path Routing Problem and the Sizing of Populations
+- A Comparison of List Schedules for Parallel Processing Systems
+- APPM: Adaptive Parallel Processing Mechanism for Service Function Chains
+- Dynamic critical-path scheduling: an effective technique for allocating task graphs to multiprocessors
+- Majority-Inverter Graph: A novel data-structure and algorithms for efficient logic optimization
+- De novo short read assembly of the human genome
 
 <br>
 
 
 ### Research Areas in Parallel Algorithms
 
-- Scalability
-- Load Balancing
-- Parallel Data Structures
-- Parallel Programming Models
-- Communication Efficiency
-- Fault Tolerance
-- Hybrid and Heterogeneous Computing
-- Big Data and Distributed Computing
-- Distributed Hash Tables
-- De Bruijn Graphs
-- Quantum Parallelism
-- Energy-Efficient Parallelism
+- Parallel Data Structures, Distributed Hash Tables, De Bruijn Graphs
+- Parallel Programming Models, Load Balancing, Scalability, Energy-Efficiency
+- Big Data and Distributed Computing, Communication Efficiency, Fault Tolerance
+- Hybrid and Heterogeneous Computing, Quantum Parallelism
+- Multimodal AI for Human-Robot Interaction (perception, outputs, task-related)
+- Multimodal Generative AI (graph generative models, knowledge, molecular, medical/bio data)
+- Generative Modelling of Conversational Dynamics (self-supervised, speech patterns, rhythm)
+- Physics-based Machine Learning jointly with the MedTech industry
+- Underwater Robotics and Machine Learning (multiple autonomous underwater vehicles)
+- Understanding Of Biodiversity Dynamics by means of Digital Twins
+- Computational Fracture Mechanics (ductile/brittle, nonlocal multiscale, crack propagation)
+- Modeling of Sociotechnical Systems, with focus on Road Transport
 - Bio-inspired and Nature-inspired Parallel Algorithms
+- Computational Biophysics (protein folding, molecular dynamics, drug design)
+- Protein Design (biocatalysis, enzyme design, biopolymers, metabolites)
+
+> Modeling of Sociotechnical Systems, with focus on Road Transport: How different electrification strategies (battery-electric, fuel cells, electric roads, battery swaps etc) can compete with and complement each other?
 
 <br>
 
 
-### Examples of Parallel Algorithms
+### Other Research Areas
 
-- Parallel Sorting Algorithms
-- Parallel Graph Algorithms
-- Parallel Numerical Algorithms
-- Parallel Search Algorithms
-- Parallel Machine Learning
-- Parallel Computational Geometry
-- Parallel Monte Carlo Methods
-
-<br>
-
-
-### Bio-inspired and Nature-inspired Parallel Algorithms
-
-- Genetic Algorithms (GAs)
-- Ant Colony Optimization (ACO)
-- Particle Swarm Optimization (PSO)
-- Artificial Immune Systems (AIS)
-- Neural Networks and Swarm Intelligence
-- Cellular Automata
-- Biomimetic Robotics
+- Cellulose paper-based materials for power transformers (oil-immersed)
+- Detection of Organic Radicals in the Atmosphere (RT mass spectrometry)
+- Light-Controllable Fluorescent Proteins in Microscopy (optical bio-imaging)
+- BioGlue: Green chemistry for biobased wood adhesives (biopolymers)
+- BioGlue: Adhesion mechanisms in biobased wood adhesives (macromolecular materials)
+- BioGlue: Biobased wood adhesives for paper applications (surface chemistry)
+- Metallurgy of Recycling of Steels (remove tramp elements, pyrometallurgy)
+- Industrial (Antisolvent) Crystallization (extract Ni, Mn, Co from mining waste)
+- Electroanalytical Chemistry

@@ -1,10 +1,15 @@
 <!-- | 🧪 [XXX](https://github.com/puzzlef/XXX) | DDD | -->
 
 
+#### SimRank
+
+- 📝 [On SimRank](https://docs.google.com/document/d/1LU1dasNlMlNTlHdXcTAV8F-WPgKwdUtr-hnsG3cXJSI/edit?usp=sharing)
+
+
 #### Community Detection
 
 - 📰 [Delta-Screening: A Fast and Efficient Technique to Update Communities in Dynamic Graphs](https://gist.github.com/wolfram77/c51f3580d7a76fa5c0a78491569df5ce)
-- 📝 [Delta modularity derivation (Louvain algorithm)](https://gist.github.com/wolfram77/a3c95cd94a38a100f9b075594a823928)
+- 📋 [Delta modularity derivation (Louvain algorithm)](https://gist.github.com/wolfram77/a3c95cd94a38a100f9b075594a823928)
 
 
 #### PageRank
@@ -23,6 +28,7 @@
 
 #### Other Algorithms
 
+- 📝 [On TrueTime](https://docs.google.com/document/d/1hdDCrihe2q40tXY_2zi1H0sNk-CBnCyST1Tc5b-1S9s/edit?usp=sharing)
 - 📰 [Parallel algorithms for multi-source graph traversal and its applications](https://gist.github.com/wolfram77/eb308c44ee36c9413a2bfa8f58e2378a)
 - 📰 [A Parallel Algorithm Template for Updating Single-Source Shortest Paths in Large-Scale Dynamic Networks](https://gist.github.com/wolfram77/dc6c7bf55a2de50098b5fdc03be0d759)
 - 📰 [Practical Parallel Hypergraph Algorithms](https://gist.github.com/wolfram77/27c2527fff632f77a02b0bf921218807)
@@ -34,6 +40,8 @@
 
 #### Parallelization
 
+- 📝 [On Communication in MPI](https://docs.google.com/document/d/1eWKpXhtWgBq6Dd1jeEWgRRhTWQaY3gkrQ3FKWL1vAX4/edit?usp=sharing)
+- 📝 [On Shared Memory Parallelism](https://docs.google.com/document/d/16QjXeY6pKDxgc84U6HmXpdzdElbnqXCtIdAT2m5Cp7M/edit?usp=sharing)
 - 📰 [Accelerating sparse matrix-vector multiplication in iterative methods using GPU](https://gist.github.com/wolfram77/7e1d39edf5bbec61876d43269af72ed8)
 - 📰 [A Study of BFLOAT16 for Deep Learning Training](https://gist.github.com/wolfram77/7b75d693bbd18b2607342f8dd6bb6b0d)
 - 📰 [Hybrid Multicore Computing](https://gist.github.com/wolfram77/05dab9b615b6fb2db22a3993251d01a6)
@@ -49,3 +57,9 @@
 
 - 📰 [A Parallel Packed Memory Array to Store Dynamic Graphs](https://gist.github.com/wolfram77/5e2e7349d062b9dfa1bbf0445c7c2e01)
 - 📰 [GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing](https://gist.github.com/wolfram77/293b3a661759870482c7ceb21f1cb597)
+
+
+#### Graph Neural Networks
+
+- 📰 [Learning skillful medium-range global weather forecasting](https://gist.github.com/wolfram77/fffffc414960fc9d3dab3bddd9163a8a)
+- 📋 [Weather engineering architecture](https://gist.github.com/wolfram77/548547dad99fd5fc8dc87b559911f7bb)

@@ -3,6 +3,7 @@
 
 ### Graph Datasets
 
+- 🧵 [SuiteSparse Matrix Collection](https://sparse.tamu.edu)
 - 🧵 [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 - 🧵 [Laboratory for Web Algorithmics Dataset](https://law.di.unimi.it/datasets.php)
 - 🧵 [BigDND: Big Dynamic Network Data](https://projects.csail.mit.edu/dnd/)
@@ -17,4 +18,3 @@
 - 🧵 [Open Data on AWS](https://registry.opendata.aws)
 - 🧵 [Million Song Dataset](http://millionsongdataset.com)
 - 🧵 [MovieLens Rating Dataset](https://grouplens.org/datasets/movielens/)
-- 🧵 [SuiteSparse Matrix Collection](https://sparse.tamu.edu)

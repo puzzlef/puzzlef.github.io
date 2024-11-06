@@ -26,13 +26,13 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### Technical Reports
 
+- 📰 [Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches](https://arxiv.org/abs/2411.02268)
 - 📰 [Heuristic-based Dynamic Leiden ... Efficient Tracking of Communities on Evolving Graphs](https://arxiv.org/abs/2410.15451)
 - 📰 [A Starting Point for Dynamic Community Detection with Leiden Algorithm](https://arxiv.org/abs/2405.11658)
 - 📰 [DF Louvain: Fast Incrementally Expanding Approach for ... on Dynamic Graphs](http://arxiv.org/abs/2404.19634)
 - 📰 [An Incrementally Expanding Approach for Updating PageRank on Dynamic Graphs](https://arxiv.org/abs/2401.03256)
 - 📰 [GSL-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection with no ...](https://arxiv.org/abs/2403.01261)
 - 📰 [An Approach for Addressing Internally-Disconnected Communities in Louvain Algorithm](https://arxiv.org/abs/2402.11454)
-- 📰 [GVE-Louvain: Fast Louvain Algorithm for Community Detection in Shared Memory Setting]()
 - 📰 [Heuristics for Inequality minimization in PageRank values](https://arxiv.org/abs/2310.18537)
 - 📰 [Enhancing Efficiency in Parallel Louvain Algorithm for Community Detection](https://arxiv.org/abs/2301.12390)
 - 📰 [Effect of stepwise adjustment of Damping factor upon PageRank](https://arxiv.org/abs/2108.04150)
