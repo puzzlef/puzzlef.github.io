@@ -10,6 +10,7 @@
 - 🎃 [Jan 25: ACM International Symposium on High-Performance, Parallel and Distributed Computing (HPDC 2024)](https://www.hpdc.org/2024/)
 - 🎃 [Jan 26: International Workshop on High-Level Parallel Programming Models and Supportive Environments (HIPS 2024)](https://hips2024.github.io)
 - 🎃 [Jan 26: IEEE International Workshop on Accelerators and Hybrid Emerging Systems (AsHES 2024)](https://www.ashes-hpc.org/2024/)
+- 🎃 [Feb 02: Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP 2025)](https://jsspp.org)
 - 🎃 [Feb 10: IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (PDSEC 2024)](http://www.ieee-tcsc.org/2024/pdsec/index.php)
 - 🎃 [Feb 11: ACM Symposium on Principles of Distributed Computing (PODC 2025)](https://www.podc.org)
 - 🎃 [Feb 11: ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2025)](https://spaa.acm.org)
