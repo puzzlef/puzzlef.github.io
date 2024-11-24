@@ -4,6 +4,7 @@
 ### Top Researchers in High Performance Computing
 
 - 👨‍🏫 [Vipin Kumar @ University of Minnesota (138h): Data Mining; Parallel Computing; High Performance Computing; Artificial Intelligence; Machine Learning](https://www-users.cse.umn.edu/~kumar001/)
+- 👨‍🏫 [William Dally @ NVIDIA, Stanford University (109h): Computer Architecture; High-Performance Computing; Parallel Programming; Interconnection Networks; Computer Science](https://research.nvidia.com/person/william-dally)
 - 👨‍🏫 [Viktor K. Prasanna @ University of Southern California (83h): Parallel Computation; High Performance Computing; Reconfigurable Computing; Data Science; Energy Efficient Computing](https://sites.usc.edu/prasanna/)
 - 👨‍🏫 [Srinivasan Parthasarathy @ Ohio State University (79h): Graph Mining; Social Network Analysis; Database Systems; Data Analytics; High Performance Computing](https://cse.osu.edu/people/parthasarathy.2)
 - 👨‍🏫 [Dan Henningson @ KTH Royal Institute of Technology (77h): Fluid Mechanics; e-Science; High Performance Computing; Computational Fluid Dynamics](https://e-science.se/people-and-research/people/dan-henningson/)
@@ -21,6 +22,7 @@
 - 👨‍🏫 [Srinivas Aluru @ Georgia Tech (48h): Data Science; High performance Computing; Computational Biology; Combinatorial Scientific Computing](https://faculty.cc.gatech.edu/~saluru/)
 - 👨‍🏫 [Sanguthevar Rajasekaran @ University of Connecticut (46h): Algorithms; Bioinformatics; Parallel Computing; High Performance Computing](https://raj.cse.uconn.edu)
 - 👨‍🏫 [Richard Vuduc @ Georgia Institute of Technology (46h): High Performance Computing; Parallel Computing](https://vuduc.org/v2/)
+- 👨‍🏫 [Fabrizio Petrini @ Intel Labs, Parallel Computing Lab (40h): Supercomputing; High Performance Networks; Big Data; Exascale; High Performance Computing](https://dblp.org/pid/81/5123.html)
 - 👨‍🏫 [Kamesh Madduri @ Pennsylvania State University (37h): Data Science; High-performance Computing; Bioinformatics; Computational Science; Graph Analysis](https://madduri.org/)
 - 👨‍🏫 [Chandrika Kamath @ Lawrence Livermore National Laboratory (33h): Data Mining; Applications; Machine Learning; Image Processing; High-Performance Computing](https://ckamath.org)
 - 👨‍🏫 [Bo Peng @ Pacific Northwest National Library (27h): Many-body theory; Coupled cluster; Advanced computing](https://www.pnnl.gov/people/bo-peng)
