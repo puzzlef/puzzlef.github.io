@@ -6,6 +6,7 @@
 - 👨‍🏫 [Vipin Kumar @ University of Minnesota (138h): Data Mining; Parallel Computing; High Performance Computing; Artificial Intelligence; Machine Learning](https://www-users.cse.umn.edu/~kumar001/)
 - 👨‍🏫 [William Dally @ NVIDIA, Stanford University (109h): Computer Architecture; High-Performance Computing; Parallel Programming; Interconnection Networks; Computer Science](https://research.nvidia.com/person/william-dally)
 - 👨‍🏫 [Viktor K. Prasanna @ University of Southern California (83h): Parallel Computation; High Performance Computing; Reconfigurable Computing; Data Science; Energy Efficient Computing](https://sites.usc.edu/prasanna/)
+- 👨‍🏫 [Pankaj K. Agarwal @ Duke University (81h): Algorithms; Computational Geometry; GIS; Spatial Databases](https://users.cs.duke.edu/~pankaj/)
 - 👨‍🏫 [Srinivasan Parthasarathy @ Ohio State University (79h): Graph Mining; Social Network Analysis; Database Systems; Data Analytics; High Performance Computing](https://cse.osu.edu/people/parthasarathy.2)
 - 👨‍🏫 [Dan Henningson @ KTH Royal Institute of Technology (77h): Fluid Mechanics; e-Science; High Performance Computing; Computational Fluid Dynamics](https://e-science.se/people-and-research/people/dan-henningson/)
 - 👨‍🏫 [Andrew Lumsdaine @ University of Washington (69h): High Performance Computing; Parallel Computing; Programming Languages](https://homes.cs.washington.edu/~al75/)
