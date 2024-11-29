@@ -26,6 +26,7 @@
 - 👨‍🏫 [Fabrizio Petrini @ Intel Labs, Parallel Computing Lab (40h): Supercomputing; High Performance Networks; Big Data; Exascale; High Performance Computing](https://dblp.org/pid/81/5123.html)
 - 👨‍🏫 [Kamesh Madduri @ Pennsylvania State University (37h): Data Science; High-performance Computing; Bioinformatics; Computational Science; Graph Analysis](https://madduri.org/)
 - 👨‍🏫 [Chandrika Kamath @ Lawrence Livermore National Laboratory (33h): Data Mining; Applications; Machine Learning; Image Processing; High-Performance Computing](https://ckamath.org)
+- 👨‍🏫 [Anne Benoit @ LIP, ENS Lyon, France (28h): Algorithms; Scheduling](https://graal.ens-lyon.fr/~abenoit/)
 - 👨‍🏫 [Bo Peng @ Pacific Northwest National Library (27h): Many-body theory; Coupled cluster; Advanced computing](https://www.pnnl.gov/people/bo-peng)
 - 👨‍🏫 [Laxman Dhulipala @ University of Maryland, College Park (24h): Parallel Algorithms; Graph Algorithms](https://www.cs.umd.edu/~laxman/)
 - 👨‍🏫 [Matthew R. Guthaus @ University of California Santa Cruz (20h): VLSI; Computer-Aided Desig; nElectronic Design Automation; Machine Learning](https://vlsida.github.io)
