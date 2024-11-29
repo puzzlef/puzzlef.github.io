@@ -16,16 +16,19 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 📰 [Lock-free Computation of PageRank in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596502/) (IPDPSW ParSocial 2024, IEEE)
 - 📰 [Fast Leiden Algorithm for Community Detection in Shared Memory Setting](https://dl.acm.org/doi/abs/10.1145/3673038.3673146) (ICPP 2024, ACM)
 - 📰 [DF* PageRank: Incrementally Expanding Approaches for Updating PageRank on Dynamic Graphs](https://link.springer.com/chapter/10.1007/978-3-031-69583-4_22) (Euro-Par 2024, Springer LNCS)
-- 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://arxiv.org/abs/2401.11415) (Euro-Par 2024 PhD Symposium, Springer LNCS)
+- 📰 [High-Speed Neighborhood-based Link Prediction by Disregarding Large Hubs](https://arxiv.org/abs/2401.11415) (Euro-Par 2024 PhD Symposium, Springer LNCS)
 - 📰 [GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats](https://arxiv.org/abs/2311.14650) (Euro-Par AMTE 2024, Springer LNCS)
 - 📰 [GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in Shared Memory Setting](https://arxiv.org/abs/2312.08140) (Euro-Par HiPES 2024, Springer LNCS)
-- 📰 [High-Performance Implementation of Louvain Algorithm with Representational Optimizations](https://arxiv.org/abs/2312.04876) (Accepted at Complex Networks 2024, Springer SCI)
+- 📰 [High-Performance Implementation of Louvain Algorithm with Representational Optimizations](https://arxiv.org/abs/2312.04876) (Complex Networks 2024, Springer SCI)
+- 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8331) (CCPE 2024, Wiley)
 
 <br>
 
 
 ### Technical Reports
 
+- 📰 [Memory Efficient GPU-based LPA for Community Detection on Large Graphs](https://arxiv.org/abs/2411.19901)
+- 📰 [ν-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection](https://arxiv.org/abs/2411.11468)
 - 📰 [Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches](https://arxiv.org/abs/2411.02268)
 - 📰 [Heuristic-based Dynamic Leiden ... Efficient Tracking of Communities on Evolving Graphs](https://arxiv.org/abs/2410.15451)
 - 📰 [A Starting Point for Dynamic Community Detection with Leiden Algorithm](https://arxiv.org/abs/2405.11658)
