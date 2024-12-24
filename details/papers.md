@@ -133,3 +133,27 @@
 - Metallurgy of Recycling of Steels (remove tramp elements, pyrometallurgy)
 - Industrial (Antisolvent) Crystallization (extract Ni, Mn, Co from mining waste)
 - Electroanalytical Chemistry
+
+<br>
+<br>
+<br>
+
+
+### Top Blog Posts in High Performance Computing
+
+#### Large Language Models
+
+- [GraphRAG: Unlocking LLM discovery on narrative private data; Feb 2024](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+- [GraphRAG: New tool for complex data discovery now on GitHub; Jul 2024](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
+- [Introducing DRIFT Search: Combining global and local search methods to improve quality and efficiency; Oct 2024](https://www.microsoft.com/en-us/research/blog/introducing-drift-search-combining-global-and-local-search-methods-to-improve-quality-and-efficiency/)
+- [GraphRAG: Improving global search via dynamic community selection; Nov 2024](https://www.microsoft.com/en-us/research/blog/graphrag-improving-global-search-via-dynamic-community-selection/)
+- [LazyGraphRAG: Setting a new standard for quality and cost; Nov 2024](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)
+- [Moving to GraphRAG 1.0 – Streamlining ergonomics for developers and users; Dec 2024](https://www.microsoft.com/en-us/research/blog/moving-to-graphrag-1-0-streamlining-ergonomics-for-developers-and-users/)
+- [Understanding Transformer reasoning capabilities via graph algorithms; Dec 2024](https://research.google/blog/understanding-transformer-reasoning-capabilities-via-graph-algorithms/)
+
+<br>
+
+
+#### Machine Learning
+
+- [Hierarchical Navigable Small Worlds (HNSW)](https://www.pinecone.io/learn/series/faiss/hnsw/)

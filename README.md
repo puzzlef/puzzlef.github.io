@@ -71,20 +71,6 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 📜 [Proceedings Scholar Metrics](https://gist.github.com/wolfram77/c7b93dd8662db6a682f284f4e189b07c)
 - 📜 ["You and Your Research" by Richard W Hamming](https://gist.github.com/wolfram77/20a14377a80c2488ff329afc14ce3a97)
 
-
-<br>
-
-
-### Software
-
-| Tool | Description |
-|  ----  |  ----  |
-| 📦 [nvgraph.sh](https://github.com/nodef/nvgraph.sh) | CLI for nvGraph, which is a GPU-based graph analytics library written by NVIDIA, using CUDA. |
-| 📦 [snap-data.sh](https://github.com/nodef/snap-data.sh) | CLI for SNAP dataset, which is a collection of more than 50 large networks. |
-| ⛏️ [graph-properties](https://github.com/ionicf/graph-properties) | List a few graph properties. |
-| ⛏️ [graph-generate](https://github.com/ionicf/graph-generate) | Perform certain operations upon a fixed graph. |
-| 🧵 [graphs](https://github.com/puzzlef/graphs) | A few sample graphs in Matrix Market (.mtx) format. |
-
 <br>
 
 
@@ -94,6 +80,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 📰 [Top Research Papers in High Performance Computing](details/papers.md)
 - 🎃 [Top Conferences in High Performance Computing](details/conferences.md)
 - 📚 [Top Journals in High Performance Computing](details/journals.md)
+- 📰 [Top Products in High Performance Computing](details/products.md)
 - 💵 [Travel Grant for Conferences: Mayank Tripathi](https://github.com/mayank408/Travel-Grants)
 - 🧵 [List of Available Datasets](details/datasets.md)
 - 🧪 [List of Experiments](details/experiments.md)
