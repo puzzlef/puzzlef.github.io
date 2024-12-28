@@ -9,7 +9,15 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 <br>
 
 
-### Publications
+### Journal Articles
+
+- 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8331) (Concurrency and Computation: Practice and Experience 2024, Wiley)
+- 📰 [Parallel Multicore Algorithms for Community Detection in Dynamic Graphs](#) (Accepted in International Journal of Networking and Computing 2024)
+
+<br>
+
+
+### International Conferences
 
 - 📰 [Dynamic Batch Parallel Algorithms for Updating PageRank](https://ieeexplore.ieee.org/abstract/document/9835216/) (IPDPSW ParSocial 2022, IEEE)
 - 📰 [Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596428/) (Outstanding paper, IPDPSW ADPCM 2024, IEEE)
@@ -20,7 +28,14 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 📰 [GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats](https://arxiv.org/abs/2311.14650) (Euro-Par AMTE 2024, Springer LNCS)
 - 📰 [GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in Shared Memory Setting](https://arxiv.org/abs/2312.08140) (Euro-Par HiPES 2024, Springer LNCS)
 - 📰 [High-Performance Implementation of Louvain Algorithm with Representational Optimizations](https://arxiv.org/abs/2312.04876) (Complex Networks 2024, Springer SCI)
-- 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8331) (CCPE 2024, Wiley)
+
+<br>
+
+
+### Posters
+
+- 📰 [Shared-Memory Parallel Dynamic Louvain Algorithm for Community Detection](https://ieeexplore.ieee.org/abstract/document/10596440) (IPDPS Poster 2024, IEEE)
+- 📰 [EvolvGraph: A Tool for Property-Constrained Generation of Dynamic Graphs](#) (HiPC 2024 SRS, IEEE)
 
 <br>
 
@@ -74,7 +89,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 <br>
 
 
-### Others
+### Quick Links
 
 - 👨‍🏫 [Top Researchers in High Performance Computing](details/researchers.md)
 - 📰 [Top Research Papers in High Performance Computing](details/papers.md)
