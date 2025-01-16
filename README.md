@@ -2,7 +2,7 @@
 
 The world is in the midst of an **unprecedented growth of interconnected data**, and *graph processing systems* are expected to play a vital role. *Conventional graph algorithms* designed for static graphs **struggle** to efficiently handle the continuous changes and updates that occur within these networks. As these networks grow in complexity, the need for algorithms capable of *efficiently analyzing dynamic graph data* is increasingly crucial. Our research aims to address the computational challenges posed by the need for real-time insights and scalable processing in dynamic and complex networks.
 
-However, many *dynamic algorithms* are **sequential**, tailored towards web graphs, do not utilize *reducibility*, locality benefits of SCCs, overestimate affected vertices, and have *high overhead*, implementations are *not well optimized*, do not take advantage of *auxiliary information*, and do not gracefully tolerate *soft-faults* which modern architectures introduce. Our dynamic approaches for PageRank and community detection address these issues. Our work has been accepted by *IPDPS workshops* (3), the *Euro-Par conference* (1), the *ICPP conference* (1), and the *Complex Networks conference* (1). Key outputs from our work include the design of a **common framework for dynamic graph algorithms**, and **techniques to address soft faults in dynamic algorithms**.
+However, many *dynamic algorithms* are **sequential**, tailored towards web graphs, do not utilize *reducibility*, locality benefits of SCCs, overestimate affected vertices, have *high overhead*, do not have *well optimized implementations*, do not take advantage of *auxiliary information*, and do not gracefully tolerate *soft-faults* which modern architectures introduce. Our dynamic approaches for PageRank and community detection address these issues. Our work has been accepted by *IPDPS workshops* (3), the *Euro-Par conference* (1), the *ICPP conference* (1), and the *Complex Networks conference* (1). Key outputs from our work include the design of a **common framework for dynamic graph algorithms**, and **techniques to address soft faults in dynamic algorithms**.
 
 <!-- We are currently working on algorithms for link prediction, node similarity, fast loading of dynamic graphs, and generation of large realistic/constrained dynamic graph datasets. The development of dynamic algorithms for large-scale graph processing resonates with Microsoft's mission to empower individuals and organizations through innovative technology solutions. By collaborating with Microsoft Research India, we aim to further accelerate the adoption of our optimized algorithms and contribute to the advancement of graph analytics in real-world applications. -->
 
@@ -12,7 +12,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 ### Journal Articles
 
 - 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8331) (Concurrency and Computation: Practice and Experience 2024, Wiley)
-- 📰 [Parallel Multicore Algorithms for Community Detection in Dynamic Graphs](#) (Accepted in International Journal of Networking and Computing 2024)
+- 📰 [Parallel Multicore Algorithms for Community Detection in Dynamic Graphs](https://www.jstage.jst.go.jp/article/ijnc/15/1/15_2/_article/-char/ja/) (International Journal of Networking and Computing 2024)
 
 <br>
 
