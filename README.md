@@ -42,6 +42,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### Technical Reports
 
+- 📰 [CPU vs. GPU for Community Detection: ... Insights from GVE-Louvain and ν-Louvain](https://arxiv.org/abs/2501.19004)
 - 📰 [Memory Efficient GPU-based LPA for Community Detection on Large Graphs](https://arxiv.org/abs/2411.19901)
 - 📰 [ν-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection](https://arxiv.org/abs/2411.11468)
 - 📰 [Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches](https://arxiv.org/abs/2411.02268)
@@ -85,6 +86,13 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 📜 [Top CSE conferences list (IIIT Hyderabad)](https://gist.github.com/wolfram77/5565ff06dfe35c7f2e89051a5577622f)
 - 📜 [Proceedings Scholar Metrics](https://gist.github.com/wolfram77/c7b93dd8662db6a682f284f4e189b07c)
 - 📜 ["You and Your Research" by Richard W Hamming](https://gist.github.com/wolfram77/20a14377a80c2488ff329afc14ce3a97)
+
+<br>
+
+
+### Funding
+
+- [Scholarship for Events on Complex Systems (SECS)](https://yrcss.cssociety.org/grants/secs/) for attending Complex Networks 2024.
 
 <br>
 
