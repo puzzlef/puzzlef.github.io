@@ -42,6 +42,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### Technical Reports
 
+- 📰 [Performance Comparison of Graph Representations Which Support Dynamic Graph Updates](https://arxiv.org/abs/2502.13862)
 - 📰 [CPU vs. GPU for Community Detection: ... Insights from GVE-Louvain and ν-Louvain](https://arxiv.org/abs/2501.19004)
 - 📰 [Memory Efficient GPU-based LPA for Community Detection on Large Graphs](https://arxiv.org/abs/2411.19901)
 - 📰 [ν-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection](https://arxiv.org/abs/2411.11468)
