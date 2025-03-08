@@ -1,6 +1,29 @@
 <!-- | 🧪 [XXX](https://github.com/puzzlef/XXX) | DDD | -->
 
 
+#### Manuscripts
+
+- 📰 [STIC-D based Algorithmic Optimizations for Monolithic PageRank](https://gist.github.com/wolfram77/12e5a19ff081b2e3280d04331a9976ca)
+- 📰 [Adjusting Datatype of Rank vector and CSR Representation with PageRank](https://gist.github.com/wolfram77/66882e8b7feaa8119f349a34906b14a7)
+- 📰 [Parallelizing PageRank for a Volta GPU](https://gist.github.com/wolfram77/4ef16ab9699ac03a617b8731dd240e1f)
+- 📰 [Dead End handling strategies for PageRank algorithm](https://gist.github.com/wolfram77/94c38b9cfbf0c855e5f42fa24a8602fc)
+- 📰 [Rank adjustment strategies for Dynamic PageRank](https://gist.github.com/wolfram77/eb7a3b2e44e3c2069e046389b45ead03)
+- 📰 [Effect of stepwise adjustment of Damping factor upon PageRank](https://gist.github.com/wolfram77/14272ddfd5fd7560a8c3edf899fc475b)
+- 📰 [Adjusting PageRank parameters and Comparing results](https://gist.github.com/wolfram77/6dc740392d2f4e713fafdaea4ec1eba2)
+- 📰 [Understand Problems](https://gist.github.com/wolfram77/be1b0cec6825515057058fe1dde843c9)
+
+
+### Research
+
+- 📜 ["You and Your Research" by Richard W Hamming](https://gist.github.com/wolfram77/20a14377a80c2488ff329afc14ce3a97)
+- 📜 [Proceedings Scholar Metrics](https://gist.github.com/wolfram77/c7b93dd8662db6a682f284f4e189b07c)
+- 📜 [Submitting the Thesis Evaluation Request by MS/PhD Students (IIIT Hyderabad)](https://gist.github.com/wolfram77/28b1a9251c7e4ac36c233a6739c4c164)
+- 📜 [The Purpose and Process of PhD Comprehensive VIVA Examination (IIIT Hyderabad)](https://gist.github.com/wolfram77/a7eb570fab6c166ae2f8bc6fb999d253)
+- 📜 [Policy on stipend support for research students (IIIT Hyderabad)](https://gist.github.com/wolfram77/d8574485b6cd9b3724d788e7c8b2a27c)
+- 📜 [Top CSE conferences list (IIIT Hyderabad)](https://gist.github.com/wolfram77/5565ff06dfe35c7f2e89051a5577622f)
+- 📝 [List of Research papers: Prof. Kishore Kothapalli, CSTAR, IIIT Hyderabad](https://gist.github.com/wolfram77/847fa70dd2c23a994b196f20e8e96814)
+
+
 #### SimRank
 
 - 📝 [On SimRank](https://docs.google.com/document/d/1LU1dasNlMlNTlHdXcTAV8F-WPgKwdUtr-hnsG3cXJSI/edit?usp=sharing)
