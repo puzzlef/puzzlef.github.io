@@ -1,0 +1,30 @@
+{
+  "name": "puzzlef.github.io",
+  "version": "1.0.1",
+  "description": "A summary of experiments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puzzlef/puzzlef.github.io.git"
+  },
+  "keywords": [
+    "experiments",
+    "summary"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puzzlef/puzzlef.github.io/issues"
+  },
+  "homepage": "https://github.com/puzzlef/puzzlef.github.io#readme",
+  "dependencies": {
+    "@octokit/rest": "^21.1.1",
+    "extra-sleep": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10"
+  }
+}
