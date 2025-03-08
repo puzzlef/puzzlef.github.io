@@ -1,6 +1,6 @@
 {
   "name": "puzzlef.github.io",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A summary of experiments.",
   "main": "index.js",
   "scripts": {
