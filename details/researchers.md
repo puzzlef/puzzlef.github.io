@@ -3,6 +3,11 @@
 
 ### Top Researchers in High Performance Computing
 
+- 👨‍🏫 [Prof. Kishore Kothapalli @ IIIT Hyderabad: High performance computing; Graph algorithms](https://faculty.iiit.ac.in/~kkishore/)
+- 👨‍🏫 [Prof. Dip Sankar Banerjee @ IIT Jodhpur: High performance computing; Parallel computing; Computer Architecture; Data Analytics](https://sites.google.com/site/dipsankarban/)
+- 👩‍🏫 [Prof. Hemalatha Eedi @ JNTU Hyderabad: High performance computing; Data Analytics](https://jntuhceh.ac.in/faculty_details/5/dept/369)
+- 👨‍🏫 [Prof. Sathya Peri @ IIT Hyderabad: Parallel and Distributed Systems](https://people.iith.ac.in/sathya_p/)
+
 - 👨‍🏫 [Vipin Kumar @ University of Minnesota (138h): Data Mining; Parallel Computing; High Performance Computing; Artificial Intelligence; Machine Learning](https://www-users.cse.umn.edu/~kumar001/)
 - 👨‍🏫 [William Dally @ NVIDIA, Stanford University (109h): Computer Architecture; High-Performance Computing; Parallel Programming; Interconnection Networks; Computer Science](https://research.nvidia.com/person/william-dally)
 - 👨‍🏫 [Viktor K. Prasanna @ University of Southern California (83h): Parallel Computation; High Performance Computing; Reconfigurable Computing; Data Science; Energy Efficient Computing](https://sites.usc.edu/prasanna/)
@@ -33,11 +38,6 @@
 - 👨‍🏫 [Outi Tammisola @ KTH Royal Institute of Technology (20h): Fluid Mechanics](https://www.kth.se/profile/outi?l=en)
 - 👨‍🏫 [Henrik Hult @ KTH Royal Institute of Technology (18h): Mathematics](https://www.kth.se/profile/hult)
 - 👨‍🏫 [Ajay Panyala @ Pacific Northwest National Laboratory (11h): High Performance Computing](https://www.pnnl.gov/people/ajay-panyala)
-
-- 👨‍🏫 [Prof. Kishore Kothapalli @ IIIT Hyderabad: High performance computing; Graph algorithms](https://faculty.iiit.ac.in/~kkishore/)
-- 👨‍🏫 [Prof. Dip Sankar Banerjee @ IIT Jodhpur: High performance computing; Parallel computing; Computer Architecture; Data Analytics](https://sites.google.com/site/dipsankarban/)
-- 👩‍🏫 [Prof. Hemalatha Eedi @ JNTU Hyderabad: High performance computing; Data Analytics](https://jntuhceh.ac.in/faculty_details/5/dept/369)
-- 👨‍🏫 [Prof. Sathya Peri @ IIT Hyderabad: Parallel and Distributed Systems](https://people.iith.ac.in/sathya_p/)
 
 <br>
 

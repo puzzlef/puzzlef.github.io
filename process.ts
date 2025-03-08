@@ -98,7 +98,7 @@ async function main() {
   var linked = await linkedGists(pth);
   console.log(`Already linked ${linked.length} gists`);
   // Find unlinked gists.
-  var unlinked = gists.filter(gist => !linked.includes(gist.description?.replace(rerepl, "") || "\0"));
+  var unlinked = gists.filter(gist => !linked.includes(gist.description?.replace(rerepl, "").trim() || "\0"));
   console.log(`Unlinked ${unlinked.length} gists`);
   if (unlinked.length === 0) return;
   // Append unlinked gists.
@@ -106,8 +106,11 @@ async function main() {
   var text = await readTextFile(pth);
   text += "\n\n";
   unlinked.reverse();  // Gists are sorted by recent first
-  for (var gist of unlinked)
-    text += `- [${gist.description?.replace(rerepl, "")}](${gist.html_url})\n`;
+  var added = new Set<string>();
+  for (var gist of unlinked) {
+    var line = `- [${gist.description?.replace(rerepl, "").trim()}](${gist.html_url})\n`;
+    if (!added.has(line)) { text += line; added.add(line); }
+  }
   await writeTextFile(pth, text);
   console.log("Done\n");
 }
