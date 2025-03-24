@@ -62,7 +62,8 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### Thesis
 
-- 📓 [Design ... of a heterogeneous sensor-based embedded system for flood management](http://ethesis.nitrkl.ac.in/5910/1/110EC0181-8.pdf) (2014)
+- 📓 [Time Efficient, Space Efficient, and Fault Tolerant Social Network Algorithms for Static and Dynamic Graphs](#) (2025)
+- 📓 [Design and Implementation of a Heterogeneous Sensor-based Embedded System for Flood Management](http://ethesis.nitrkl.ac.in/5910/1/110EC0181-8.pdf) (2014)
 
 <br>
 
