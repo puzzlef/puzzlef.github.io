@@ -81,6 +81,8 @@
 - 📝 [Delta modularity derivation (Louvain algorithm)](https://gist.github.com/wolfram77/a3c95cd94a38a100f9b075594a823928)
 - 📰 [Delta-Screening: A Fast and Efficient Technique to Update Communities in Dynamic Graphs](https://gist.github.com/wolfram77/c51f3580d7a76fa5c0a78491569df5ce)
 - 📰 [Community Detection on the GPU](https://gist.github.com/wolfram77/7e72c9b8c18c18ab908ae76262099329)
+- 📰 [Parallel heuristics for scalable community detection; Lu et al. (2015)](https://gist.github.com/wolfram77/65ab7ec88f7957f6702def9abf2cbaf8)
+- 📰 [Algorithms for Balanced Graph Colorings with Applications in Parallel Computing; Lu et al. (2016)](https://gist.github.com/wolfram77/3666f436ce3a16a9ee46e669961002e7)
 - 📰 [Fast Incremental Community Detection on Dynamic Graphs](https://gist.github.com/wolfram77/1856b108334cc822cdddfdfa7334792a)
 - 📰 [Hierarchical parallel algorithm for modularity-based community detection using GPUs](https://gist.github.com/wolfram77/1fb6c5e422a34cc00168812b11d18f54)
 - 📰 [CGC: Contrastive Graph Clustering for Community Detection and Tracking](https://gist.github.com/wolfram77/b0b31e4572c274372e6495d35b6307ff)
