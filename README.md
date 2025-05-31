@@ -28,7 +28,8 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 📰 [High-Speed Neighborhood-based Link Prediction by Disregarding Large Hubs](https://arxiv.org/abs/2401.11415) (Euro-Par 2024 PhD Symposium, Springer LNCS)
 - 📰 [GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats](https://arxiv.org/abs/2311.14650) (Euro-Par AMTE 2024, Springer LNCS)
 - 📰 [GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in Shared Memory Setting](https://arxiv.org/abs/2312.08140) (Euro-Par HiPES 2024, Springer LNCS)
-- 📰 [High-Performance Implementation of Louvain Algorithm with Representational Optimizations](https://arxiv.org/abs/2312.04876) (Complex Networks 2024, Springer SCI)
+- 📰 [High-Performance Implementation of Louvain Algorithm with Representational Optimizations](https://link.springer.com/chapter/10.1007/978-3-031-82435-7_11) (Complex Networks 2024, Springer SCI)
+- 📰 [ν-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection](https://arxiv.org/abs/2411.11468) (Accepted at IPDPSW PDSEC 2025, IEEE)
 
 <br>
 
@@ -46,7 +47,6 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 📰 [Performance Comparison of Graph Representations Which Support Dynamic Graph Updates](https://arxiv.org/abs/2502.13862)
 - 📰 [CPU vs. GPU for Community Detection: ... Insights from GVE-Louvain and ν-Louvain](https://arxiv.org/abs/2501.19004)
 - 📰 [Memory Efficient GPU-based LPA for Community Detection on Large Graphs](https://arxiv.org/abs/2411.19901)
-- 📰 [ν-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection](https://arxiv.org/abs/2411.11468)
 - 📰 [Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches](https://arxiv.org/abs/2411.02268)
 - 📰 [Heuristic-based Dynamic Leiden ... Efficient Tracking of Communities on Evolving Graphs](https://arxiv.org/abs/2410.15451)
 - 📰 [A Starting Point for Dynamic Community Detection with Leiden Algorithm](https://arxiv.org/abs/2405.11658)
