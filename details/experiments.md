@@ -102,3 +102,11 @@
 | 🧪 [vector-sum-openmp](https://github.com/puzzlef/vector-sum-openmp) | Comparing performance of sequential vs OpenMP-based vector element sum. |
 | 🧪 [vector-sum](https://github.com/puzzlef/vector-sum) | Comparison of vector element sum using various data types. |
 | 🧪 [vector-search](https://github.com/puzzlef/vector-search) | Comparing approaches for searching an element in a vector. |
+
+<br>
+<br>
+
+
+[![](https://raw.githubusercontent.com/qb40/designs/gh-pages/0/image/11.png)](https://puzzlef.github.io)<br>
+[![ORG](https://img.shields.io/badge/org-puzzlef-green?logo=Org)](https://puzzlef.github.io)
+![](https://ga-beacon.deno.dev/G-KD28SG54JQ:hbAybl6nQFOtmVxW4if3xw/puzzlef.github.io)

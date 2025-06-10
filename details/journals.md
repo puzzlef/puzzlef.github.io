@@ -24,3 +24,11 @@
 - 📚 [Taylor & Francis Journal Suggester](https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/)
 - 📚 [MDPI Journal Finder](https://www.mdpi.com/about/journalfinder)
 - 📚 [In which journals should I publish my software?: Software Sustainability Institute](https://www.software.ac.uk/top-tip/which-journals-should-i-publish-my-software)
+
+<br>
+<br>
+
+
+[![](https://raw.githubusercontent.com/qb40/designs/gh-pages/0/image/11.png)](https://puzzlef.github.io)<br>
+[![ORG](https://img.shields.io/badge/org-puzzlef-green?logo=Org)](https://puzzlef.github.io)
+![](https://ga-beacon.deno.dev/G-KD28SG54JQ:hbAybl6nQFOtmVxW4if3xw/puzzlef.github.io)

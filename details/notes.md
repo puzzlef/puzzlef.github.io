@@ -122,6 +122,7 @@
 
 #### Other Graph Algorithms
 
+- 📝 [Top Research Papers in Parallel Graph Algorithms (2023)](https://gist.github.com/wolfram77/6b1d1a8a99667a98cbf797e5fd5ed2ba)
 - 📰 [Bounded Incremental Computation by G. Ramalingam (1993)](https://gist.github.com/wolfram77/8306e8996b8abb6db43b3b8a5d3d8f44)
 - 📰 [Parallel Batch-Dynamic Graphs: Algorithms and Lower Bounds](https://gist.github.com/wolfram77/f7e949d6576c47c7cb0af28c9fa88d3d)
 - 📰 [Practice of Streaming Processing of Dynamic Graphs: Concepts, Models, and Systems](https://gist.github.com/wolfram77/7e2a17af8ec541ddcaf3344ec9b90edf)
@@ -186,21 +187,14 @@
 
 #### Others
 
+- 📝 [Clock synchronization and TrueTime](https://gist.github.com/wolfram77/b7c0b69ef24916ddd53fc8b3836e6d72)
+- 📝 [Two-phase locking, Two-phase commit, CAP theorem, and Spanner](https://gist.github.com/wolfram77/6931322baa0221604d9fac0c3152ca6b)
 - 📰 [Bio-harmonized Dynamic Model of a Biology Inspired Carangiform Robotic Fish Underwater Vehicle](https://gist.github.com/wolfram77/6b856482b70270ed0a5a47b7718ee310)
 
 
 #### Hobbies
 
 - 📝 [Mushroom training](https://gist.github.com/wolfram77/3376184d1d3348f6b427aa9f05c0cde8)
-
-
-
-
-
-
-
-
-
 
 
 <!-- #### Theses -->
@@ -378,3 +372,11 @@
 <!-- - [Using Cilk Plus on a CentOS 7 system](https://gist.github.com/wolfram77/e285d05613f63452b0b35908be950075) -->
 <!-- - [Installing CUDA on a CentOS 7 system](https://gist.github.com/wolfram77/0008827f996501ea64a9bb00f39facf0) -->
 <!-- - [Using Google OAuth](https://gist.github.com/wolfram77/58ed5fd8aff6b80f1a8fe27ec9e0618d) -->
+
+<br>
+<br>
+
+
+[![](https://raw.githubusercontent.com/qb40/designs/gh-pages/0/image/11.png)](https://puzzlef.github.io)<br>
+[![ORG](https://img.shields.io/badge/org-puzzlef-green?logo=Org)](https://puzzlef.github.io)
+![](https://ga-beacon.deno.dev/G-KD28SG54JQ:hbAybl6nQFOtmVxW4if3xw/puzzlef.github.io)

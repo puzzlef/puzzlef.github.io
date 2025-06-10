@@ -220,3 +220,11 @@
 - 🎃 [High Performance Computing: WikiCFP](http://www.wikicfp.com/cfp/call?conference=high%20performance%20computing), [HPC: WikiCFP](http://www.wikicfp.com/cfp/call?conference=HPC)
 - 🎃 [Upcoming Events: HPCwire](https://www.hpcwire.com/events/)
 - 🎃 [HPC Events in 2024: Resurchify](https://www.resurchify.com/e/all-events/hpc/all-countries/2024/page/1/)
+
+<br>
+<br>
+
+
+[![](https://raw.githubusercontent.com/qb40/designs/gh-pages/0/image/11.png)](https://puzzlef.github.io)<br>
+[![ORG](https://img.shields.io/badge/org-puzzlef-green?logo=Org)](https://puzzlef.github.io)
+![](https://ga-beacon.deno.dev/G-KD28SG54JQ:hbAybl6nQFOtmVxW4if3xw/puzzlef.github.io)
