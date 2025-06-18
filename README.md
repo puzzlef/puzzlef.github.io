@@ -73,7 +73,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### Thesis
 
-- 📓 [Time Efficient, Space Efficient, and Fault Tolerant Social Network Algorithms for Static and Dynamic Graphs](#) (2025)
+- 📓 [Time Efficient, Space Efficient, and Fault Tolerant Social Network Algorithms for Static and Dynamic Graphs](https://gist.github.com/wolfram77/78a800059d8034acfbca908d2e68dec1) (2025)
 - 📓 [Design and Implementation of a Heterogeneous Sensor-based Embedded System for Flood Management](http://ethesis.nitrkl.ac.in/5910/1/110EC0181-8.pdf) (2014)
 
 <br>
@@ -81,6 +81,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### Funding
 
+- [IEEE IPDPS 2025 Student Travel Grant (TCPP)](https://www.ipdps.org/ipdps2025/2025-student-travel.html).
 - [Scholarship for Events on Complex Systems (SECS)](https://yrcss.cssociety.org/grants/secs/) for attending Complex Networks 2024.
 
 <!-- ### Thesis -->
