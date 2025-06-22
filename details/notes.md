@@ -48,6 +48,7 @@
 
 #### Graph Representation
 
+- 📰 [BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers](https://gist.github.com/wolfram77/227108fa6f86d5281453c9e59e903614)
 - 📰 [Interface for Sparse Linear Algebra Operations](https://gist.github.com/wolfram77/2ce785a7d9dacc2772a7364f87cc7e64)
 - 📰 [Low-Latency Graph Streaming using Compressed Purely-Functional Trees](https://gist.github.com/wolfram77/3f6439bd4c03047372a71248666c020d)
 - 📰 [A Parallel Packed Memory Array to Store Dynamic Graphs](https://gist.github.com/wolfram77/5e2e7349d062b9dfa1bbf0445c7c2e01)

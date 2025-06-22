@@ -7,11 +7,9 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 <!-- Key outputs from our work include the design of a **common framework for dynamic graph algorithms**, and **techniques to address soft faults in dynamic algorithms**. -->
 
 ▌ 😺 [GitHub](https://github.com/wolfram77) 🎓 [Google Scholar](https://scholar.google.com/citations?user=rfOetTIAAAAJ&hl=en) 🆔 [ORCiD](https://orcid.org/0000-0001-5140-6578) 🌳 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57231358600&origin=resultslist) ⛛ [Web of Science](https://www.webofscience.com/wos/author/record/ACA-6624-2022) <br>
-▌ 🎃 [Top Conferences](details/conferences.md) 📚 [Top Journals][top-journals] 👨‍🏫 [Top Researchers](details/researchers.md) 📰 [Research Notes](details/notes.md)
+▌ 🎃 [Top Conferences](details/conferences.md) 📚 [Top Journals](details/journals.md) 👨‍🏫 [Top Researchers](details/researchers.md) 📰 [Research Notes](details/notes.md)
 
 <br>
-
-[top-journals]: https://docs.google.com/spreadsheets/d/1LKBMrBVUdzgnrKkHKddYZGVjdl0TQKQ-ll5NKfjKrXI/edit?usp=sharing
 
 
 ### Journal Articles
