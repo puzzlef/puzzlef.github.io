@@ -12,14 +12,6 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 <br>
 
 
-### Journal Articles
-
-- 📰 [Parallel Multicore Algorithms for Community Detection in Dynamic Graphs](https://www.jstage.jst.go.jp/article/ijnc/15/1/15_2/_article/-char/ja/) (International Journal of Networking and Computing 2025)
-- 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8331) (Concurrency and Computation: Practice and Experience 2024, Wiley)
-
-<br>
-
-
 ### International Conferences
 
 - 📰 [ν-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection](https://arxiv.org/abs/2411.11468) (IPDPSW PDSEC 2025, IEEE)
@@ -32,6 +24,15 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 📰 [Lock-free Computation of PageRank in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596502/) (IPDPSW ParSocial 2024, IEEE)
 - 📰 [Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596428/) (Outstanding paper, IPDPSW ADPCM 2024, IEEE)
 - 📰 [Dynamic Batch Parallel Algorithms for Updating PageRank](https://ieeexplore.ieee.org/abstract/document/9835216/) (IPDPSW ParSocial 2022, IEEE)
+
+<br>
+
+
+### Journal Articles
+
+- 📰 [GVE-LPA and GSL-LPA: High-speed and internally-connected label propagation on multicore systems](https://authors.elsevier.com/a/1lPr0,3q5xrrwW) (Future Generation Computer Systems 2025)
+- 📰 [Parallel Multicore Algorithms for Community Detection in Dynamic Graphs](https://www.jstage.jst.go.jp/article/ijnc/15/1/15_2/_article/-char/ja/) (International Journal of Networking and Computing 2025)
+- 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8331) (Concurrency and Computation: Practice and Experience 2024, Wiley)
 
 <br>
 
