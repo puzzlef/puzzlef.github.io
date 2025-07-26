@@ -14,33 +14,33 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### International Conferences
 
-- 📰 [ν-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection](https://arxiv.org/abs/2411.11468) (IPDPSW PDSEC 2025, IEEE)
-- 📰 [High-Performance Implementation of Louvain Algorithm with Representational Optimizations](https://link.springer.com/chapter/10.1007/978-3-031-82435-7_11) (Complex Networks 2024, Springer SCI)
-- 📰 [GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in Shared Memory Setting](https://link.springer.com/chapter/10.1007/978-3-031-90203-1_9) (Euro-Par HiPES 2024, Springer LNCS)
-- 📰 [GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats](https://link.springer.com/chapter/10.1007/978-3-031-90200-0_22) (Euro-Par AMTE 2024, Springer LNCS)
-- 📰 [High-Speed Neighborhood-based Link Prediction by Disregarding Large Hubs](https://link.springer.com/chapter/10.1007/978-3-031-90203-1_42) (Euro-Par 2024 PhD Symposium, Springer LNCS)
-- 📰 [DF* PageRank: Incrementally Expanding Approaches for Updating PageRank on Dynamic Graphs](https://link.springer.com/chapter/10.1007/978-3-031-69583-4_22) (Euro-Par 2024, Springer LNCS)
-- 📰 [Fast Leiden Algorithm for Community Detection in Shared Memory Setting](https://dl.acm.org/doi/abs/10.1145/3673038.3673146) (ICPP 2024, ACM)
-- 📰 [Lock-free Computation of PageRank in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596502/) (IPDPSW ParSocial 2024, IEEE)
-- 📰 [Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596428/) (Outstanding paper, IPDPSW ADPCM 2024, IEEE)
-- 📰 [Dynamic Batch Parallel Algorithms for Updating PageRank](https://ieeexplore.ieee.org/abstract/document/9835216/) (IPDPSW ParSocial 2022, IEEE)
+- 📰 [ν-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection](https://arxiv.org/abs/2411.11468); Subhajit Sahu, Mahen N, Kishore Kothapalli (IPDPSW PDSEC 2025, IEEE)
+- 📰 [High-Performance Implementation of Louvain Algorithm with Representational Optimizations](https://link.springer.com/chapter/10.1007/978-3-031-82435-7_11); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (Complex Networks 2024, Springer SCI)
+- 📰 [GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in Shared Memory Setting](https://link.springer.com/chapter/10.1007/978-3-031-90203-1_9); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (Euro-Par HiPES 2024, Springer LNCS)
+- 📰 [GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats](https://link.springer.com/chapter/10.1007/978-3-031-90200-0_22); Subhajit Sahu, Kishore Kothapalli (Euro-Par AMTE 2024, Springer LNCS)
+- 📰 [High-Speed Neighborhood-based Link Prediction by Disregarding Large Hubs](https://link.springer.com/chapter/10.1007/978-3-031-90203-1_42); Subhajit Sahu, Kishore Kothapalli (Euro-Par 2024 PhD Symposium, Springer LNCS)
+- 📰 [DF* PageRank: Incrementally Expanding Approaches for Updating PageRank on Dynamic Graphs](https://link.springer.com/chapter/10.1007/978-3-031-69583-4_22); Subhajit Sahu, Kishore Kothapalli, Hemalatha Eedi, Sathya Peri (Euro-Par 2024, Springer LNCS)
+- 📰 [Fast Leiden Algorithm for Community Detection in Shared Memory Setting](https://dl.acm.org/doi/abs/10.1145/3673038.3673146); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (ICPP 2024, ACM)
+- 📰 [Lock-free Computation of PageRank in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596502/); Subhajit Sahu, Kishore Kothapalli, Hemalatha Eedi, Sathya Peri (IPDPSW ParSocial 2024, IEEE)
+- 📰 [Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10596428/); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (Outstanding paper, IPDPSW ADPCM 2024, IEEE)
+- 📰 [Dynamic Batch Parallel Algorithms for Updating PageRank](https://ieeexplore.ieee.org/abstract/document/9835216/); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (IPDPSW ParSocial 2022, IEEE)
 
 <br>
 
 
 ### Journal Articles
 
-- 📰 [GVE-LPA and GSL-LPA: High-speed and internally-connected label propagation on multicore systems](https://authors.elsevier.com/a/1lPr0,3q5xrrwW) (Future Generation Computer Systems 2025)
-- 📰 [Parallel Multicore Algorithms for Community Detection in Dynamic Graphs](https://www.jstage.jst.go.jp/article/ijnc/15/1/15_2/_article/-char/ja/) (International Journal of Networking and Computing 2025)
-- 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8331) (Concurrency and Computation: Practice and Experience 2024, Wiley)
+- 📰 [GVE-LPA and GSL-LPA: High-speed and internally-connected label propagation on multicore systems](https://authors.elsevier.com/a/1lPr0,3q5xrrwW); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (Future Generation Computer Systems 2025)
+- 📰 [Parallel Multicore Algorithms for Community Detection in Dynamic Graphs](https://www.jstage.jst.go.jp/article/ijnc/15/1/15_2/_article/-char/ja/); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (International Journal of Networking and Computing 2025)
+- 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8331); Subhajit Sahu, Kishore Kothapalli (Concurrency and Computation: Practice and Experience 2024, Wiley)
 
 <br>
 
 
 ### Posters
 
-- 📰 [EvolvGraph: A Tool for Property-Constrained Generation of Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10898993) (HiPC 2024 SRS, IEEE)
-- 📰 [Shared-Memory Parallel Dynamic Louvain Algorithm for Community Detection](https://ieeexplore.ieee.org/abstract/document/10596440) (IPDPS Poster 2024, IEEE)
+- 📰 [EvolvGraph: A Tool for Property-Constrained Generation of Dynamic Graphs](https://ieeexplore.ieee.org/abstract/document/10898993); Karan Nijhawan, Rajendraprasad Saravanan, Subhajit Sahu, Kishore Kothapalli (HiPC 2024 SRS, IEEE)
+- 📰 [Shared-Memory Parallel Dynamic Louvain Algorithm for Community Detection](https://ieeexplore.ieee.org/abstract/document/10596440); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (IPDPS Poster 2024, IEEE)
 
 <br>
 
@@ -53,6 +53,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 - 📰 [Memory-Efficient Community Detection on Large Graphs Using Weighted Sketches](https://arxiv.org/abs/2411.02268) (2024)
 - 📰 [Heuristic-based Dynamic Leiden ... Efficient Tracking of Communities ...](https://arxiv.org/abs/2410.15451) (2024)
 - 📰 [A Starting Point for Dynamic Community Detection with Leiden Algorithm](https://arxiv.org/abs/2405.11658) (2024)
+- 📰 [Efficient GPU Implementation of ... DF-P PageRank for Dynamic Graphs](http://arxiv.org/abs/2404.19634) (2024)
 - 📰 [DF Louvain: Fast Incrementally Expanding Approach for ... on Dynamic Graphs](http://arxiv.org/abs/2404.19634) (2024)
 - 📰 [GSL-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection with no ...](https://arxiv.org/abs/2403.01261) (2024)
 - 📰 [An Approach for ... Internally-Disconnected Communities in Louvain ...](https://arxiv.org/abs/2402.11454) (2024)
@@ -72,21 +73,27 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### Thesis
 
-- 📓 [Time Efficient, Space Efficient, and Fault Tolerant Social Network Algorithms for Static and Dynamic Graphs](https://gist.github.com/wolfram77/78a800059d8034acfbca908d2e68dec1) (2025)
-- 📓 [Design and Implementation of a Heterogeneous Sensor-based Embedded System for Flood Management](http://ethesis.nitrkl.ac.in/5910/1/110EC0181-8.pdf) (2014)
+- 📓 [Time Efficient, Space Efficient, and Fault Tolerant Social Network Algorithms for Static and Dynamic Graphs](https://gist.github.com/wolfram77/78a800059d8034acfbca908d2e68dec1) ([2025](http://hdl.handle.net/10603/652198))
+- 📓 [Design and Implementation of a Heterogeneous Sensor-based Embedded System for Flood Management](https://gist.github.com/wolfram77/81bab10aee19fb15e113d5115ab9bcbe) ([2014](http://ethesis.nitrkl.ac.in/5910/1/110EC0181-8.pdf))
+<!-- - 📓 [Parallel Dynamic Graph Algorithms for Social Networks (Thesis Proposal Slides)](https://1drv.ms/b/s!ArJVU1dIBRJPuy4CtDRcNERiz0jh?e=OYK07W) -->
+<!-- - 📓 [Exploring Parallel Optimizations for Dynamic Graph Algorithms](https://gist.github.com/wolfram77/191a04139b47d5a3823d89aa9657b9bc) -->
+<!-- - 📓 [Exploring Optimizations for Dynamic Graph Algorithms on the GPU](https://gist.github.com/wolfram77/2fb4a81b20bb91644e066a9946706baa) -->
 
 <br>
 
 
 ### Funding
 
-- [IEEE IPDPS 2025 Student Travel Grant (TCPP)](https://www.ipdps.org/ipdps2025/2025-student-travel.html).
-- [Scholarship for Events on Complex Systems (SECS)](https://yrcss.cssociety.org/grants/secs/) for attending Complex Networks 2024.
+- 💰 [IEEE IPDPS 2025 Student Travel Grant (TCPP)](https://www.ipdps.org/ipdps2025/2025-student-travel.html).
+- 💰 [Scholarship for Events on Complex Systems (SECS)](https://yrcss.cssociety.org/grants/secs/) for attending Complex Networks 2024.
 
-<!-- ### Thesis -->
-<!-- - 📓 [Parallel Dynamic Graph Algorithms for Social Networks (Thesis Proposal Slides)](https://1drv.ms/b/s!ArJVU1dIBRJPuy4CtDRcNERiz0jh?e=OYK07W) -->
-<!-- - 📓 [Exploring Parallel Optimizations for Dynamic Graph Algorithms](https://gist.github.com/wolfram77/191a04139b47d5a3823d89aa9657b9bc) -->
-<!-- - 📓 [Exploring Optimizations for Dynamic Graph Algorithms on the GPU](https://gist.github.com/wolfram77/2fb4a81b20bb91644e066a9946706baa) -->
+<br>
+
+
+### Other Resources
+
+- 📝 [Top Research Papers in Parallel Graph Algorithms (2023)](details/papers.md)
+- 📜 [Google Scholar Metrics (2025)](https://gist.github.com/wolfram77/6d0a7f821c67c8fe96126dffd4391fe7)
 
 <br>
 <br>
