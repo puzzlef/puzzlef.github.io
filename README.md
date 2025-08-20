@@ -14,7 +14,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### International Conferences
 
-- 📰 [ν-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection](https://arxiv.org/abs/2411.11468); Subhajit Sahu, Mahen N, Kishore Kothapalli (IPDPSW PDSEC 2025, IEEE)
+- 📰 [ν-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection](https://ieeexplore.ieee.org/abstract/document/11105845); Subhajit Sahu, Mahen N, Kishore Kothapalli (IPDPSW PDSEC 2025, IEEE)
 - 📰 [High-Performance Implementation of Louvain Algorithm with Representational Optimizations](https://link.springer.com/chapter/10.1007/978-3-031-82435-7_11); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (Complex Networks 2024, Springer SCI)
 - 📰 [GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in Shared Memory Setting](https://link.springer.com/chapter/10.1007/978-3-031-90203-1_9); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (Euro-Par HiPES 2024, Springer LNCS)
 - 📰 [GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats](https://link.springer.com/chapter/10.1007/978-3-031-90200-0_22); Subhajit Sahu, Kishore Kothapalli (Euro-Par AMTE 2024, Springer LNCS)
