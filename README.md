@@ -30,7 +30,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 ### Journal Articles
 
-- 📰 [GVE-LPA and GSL-LPA: High-speed and internally-connected label propagation on multicore systems](https://authors.elsevier.com/a/1lPr0,3q5xrrwW); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (Future Generation Computer Systems 2025)
+- 📰 [GVE-LPA and GSL-LPA: High-speed and internally-connected label propagation on multicore systems](https://www.sciencedirect.com/science/article/pii/S0167739X25002912); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (Future Generation Computer Systems 2025)
 - 📰 [Parallel Multicore Algorithms for Community Detection in Dynamic Graphs](https://www.jstage.jst.go.jp/article/ijnc/15/1/15_2/_article/-char/ja/); Subhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee (International Journal of Networking and Computing 2025)
 - 📰 [A Fast Parallel Approach for Neighborhood-based Link Prediction by Disregarding Large Hubs](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8331); Subhajit Sahu, Kishore Kothapalli (Concurrency and Computation: Practice and Experience 2024, Wiley)
 
