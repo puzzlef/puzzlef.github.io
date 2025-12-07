@@ -94,6 +94,7 @@ However, many *dynamic algorithms* are **sequential**, tailored towards web grap
 
 - 📝 [Top Research Papers in Parallel Graph Algorithms (2023)](details/papers.md)
 - 📜 [Google Scholar Metrics (2025)](https://gist.github.com/wolfram77/6d0a7f821c67c8fe96126dffd4391fe7)
+- ©️ [Indian Patent Application Status](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)
 
 <br>
 <br>
