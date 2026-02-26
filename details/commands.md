@@ -11,7 +11,7 @@ $ htop
 $ lscpu
 
 # List all nodes in the cluster with detailed information
-$ psbnodes -aSj
+$ pbsnodes -aSj
 
 # Log in to a specific node (node01) for interactive work
 $ ssh node01
